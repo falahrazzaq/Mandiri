@@ -16,7 +16,7 @@
   height: 81px;
   width: 595px;
   position: relative;
-  background-color: #007dfe;
+  background-color: var(--blue-b300-primary);
   display: none;
   max-width: 100%;
   z-index: 0;
@@ -40,15 +40,17 @@
   margin: 0;
   align-self: stretch;
   position: relative;
-  font-size: inherit;
   line-height: 24px;
-  font-weight: 700;
   font-family: inherit;
   z-index: 2;
 }
+.e-statement-gabungan4 {
+  font-size: inherit;
+  font-weight: 700;
+}
 .consolidated-e-statement4 {
   height: 19.1px;
-  font-size: 10px;
+  font-size: var(--font-size-3xs);
   display: flex;
   font-style: italic;
   font-weight: 400;
@@ -68,7 +70,7 @@
 .header-inner1 {
   width: 214.5px;
   justify-content: flex-end;
-  padding: 0 0 1px;
+  padding: 0 0 var(--padding-12xs);
   box-sizing: border-box;
 }
 .logo-variant-icon4 {
@@ -96,25 +98,25 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  gap: 12px;
-  font-size: 8px;
+  gap: var(--gap-xs);
+  font-size: var(--font-size-5xs);
 }
 .header4 {
   align-self: stretch;
-  background-color: #007dfe;
+  background-color: var(--blue-b300-primary);
   display: flex;
   flex-direction: row;
   align-items: flex-end;
   justify-content: space-between;
-  padding: 15px 16px 14px;
+  padding: var(--padding-mini) var(--padding-base) var(--padding-sm);
   box-sizing: border-box;
   position: relative;
   max-width: 100%;
-  gap: 20px;
+  gap: var(--gap-xl);
   z-index: 1;
 }
 .name8 {
-  color: #686868;
+  color: var(--black-b200-txtplaceholder);
 }
 .namaname4,
 .name-separator {
@@ -137,16 +139,16 @@
 .name-separator-parent {
   flex: 1;
   align-items: center;
-  gap: 8px;
+  gap: var(--gap-5xs);
 }
 .namaname-parent1 {
   align-self: stretch;
   align-items: flex-start;
-  gap: 4px;
+  gap: var(--gap-9xs);
 }
 .kcp-tangerang-summarecon4 {
   position: relative;
-  color: #333;
+  color: var(--black-b400-txttitle);
 }
 .branch-separator-parent,
 .cabangbranch-parent1,
@@ -155,22 +157,22 @@
   flex-direction: row;
   align-items: center;
   justify-content: flex-start;
-  gap: 8px;
+  gap: var(--gap-5xs);
 }
 .cabangbranch-parent1,
 .frame-parent28 {
   align-items: flex-start;
-  gap: 4px;
+  gap: var(--gap-9xs);
 }
 .frame-parent28 {
   width: 262px;
   flex-direction: column;
-  gap: 6px;
+  gap: var(--gap-7xs);
 }
 .jan-2023-4 {
   flex: 1;
   position: relative;
-  color: #333;
+  color: var(--black-b400-txttitle);
 }
 .tgl-downloaddownloaded-on-container4 {
   position: relative;
@@ -186,12 +188,12 @@
 }
 .frame-parent29 {
   flex-direction: column;
-  gap: 6px;
+  gap: var(--gap-7xs);
   min-width: 146px;
 }
 .frame-parent27 {
   flex-direction: row;
-  gap: 20px;
+  gap: var(--gap-xl);
   max-width: 100%;
 }
 .dari-154,
@@ -214,8 +216,8 @@
   flex-direction: row;
   align-items: center;
   justify-content: flex-end;
-  padding: 0 0 0 17px;
-  color: #686868;
+  padding: 0 0 0 var(--padding-mid);
+  color: var(--black-b200-txtplaceholder);
 }
 .frame-parent26,
 .name9 {
@@ -226,16 +228,16 @@
   width: 40px;
   flex-direction: column;
   align-items: flex-end;
-  gap: 6px;
+  gap: var(--gap-7xs);
   text-align: right;
-  color: #333;
+  color: var(--black-b400-txttitle);
 }
 .frame-parent26 {
   align-self: stretch;
   flex-direction: row;
   flex-wrap: wrap;
   align-items: flex-start;
-  gap: 16px;
+  gap: var(--gap-base);
   max-width: 100%;
 }
 .produkproduct-tabungan-valas-container {
@@ -254,26 +256,26 @@
 .produkproduct-tabungan-valas-wrapper {
   flex: 1;
   overflow: hidden;
-  padding: 4px 8px;
+  padding: var(--padding-9xs) var(--padding-5xs);
   box-sizing: border-box;
 }
 .table-inner {
   align-self: stretch;
-  background-color: #3fa7fc;
+  background-color: var(--color-cornflowerblue-200);
   text-align: left;
-  color: #fff;
+  color: var(--black-b0-bgwhite);
 }
 .nomor-rekening-account-container1 {
   position: relative;
 }
 .nomor-rekening-account-number-wrapper {
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 8px 8px 35px;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-16xl);
   text-align: left;
 }
 .saldo-awal-usd {
@@ -281,7 +283,7 @@
 }
 .opening-balance-usd {
   margin: 0;
-  color: #494949;
+  color: var(--black-b300-txtbody);
 }
 .saldo-awal-usd-container {
   flex: 1;
@@ -289,14 +291,14 @@
 }
 .saldo-awal-usd-opening-balan-wrapper {
   width: 75px;
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   flex-shrink: 0;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 8px 8px 26px;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-7xl);
   box-sizing: border-box;
 }
 .dana-masuk-valuta-container {
@@ -308,14 +310,14 @@
 }
 .dana-masuk-valuta-asal-incom-wrapper {
   width: 75px;
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   flex-shrink: 0;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 8px;
+  padding: var(--padding-5xs);
   box-sizing: border-box;
 }
 .saldo-akhir-valuta-container {
@@ -328,20 +330,20 @@
 .kurs-exchange-rate-wrapper,
 .saldo-akhir-valuta-asal-endi-wrapper {
   width: 75px;
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   flex-shrink: 0;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: center;
-  padding: 8px 8px 17px;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-mid);
   box-sizing: border-box;
 }
 .kurs-exchange-rate-wrapper {
   width: 80px;
   justify-content: flex-start;
-  padding: 8px 8px 35px;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-16xl);
   text-align: left;
 }
 .account-balance-row,
@@ -353,17 +355,17 @@
 }
 .saldo-akhir-idr-ending-balan-frame {
   width: 96px;
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   flex-shrink: 0;
-  padding: 8px 8px 35px;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-16xl);
   box-sizing: border-box;
   min-width: 62px;
 }
 .account-balance-row {
   align-self: stretch;
   flex-wrap: wrap;
-  gap: 2px;
+  gap: var(--gap-11xs);
 }
 .b46 {
   height: 24px;
@@ -379,7 +381,7 @@
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
   text-align: left;
 }
@@ -397,19 +399,19 @@
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
 }
 .wrapper56 {
   justify-content: flex-start;
-  color: #00ba4a;
+  color: var(--green-g300);
 }
 .wrapper57,
 .wrapper58 {
   justify-content: flex-end;
 }
 .wrapper58 {
-  color: #0058b2;
+  color: var(--blue-b400);
 }
 .usd-idr {
   height: 24px;
@@ -421,7 +423,7 @@
 .usd-idr-16325-wrapper {
   overflow: hidden;
   justify-content: flex-start;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   text-align: left;
 }
 .transaction-detail,
@@ -436,10 +438,10 @@
   overflow: hidden;
   flex-shrink: 0;
   justify-content: flex-end;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
   min-width: 62px;
-  color: #0058b2;
+  color: var(--blue-b400);
 }
 .transaction-detail {
   width: 90px;
@@ -447,11 +449,11 @@
 .original-balance,
 .remarks1,
 .transaction-detail {
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   flex-shrink: 0;
   justify-content: flex-start;
-  padding: 8px;
+  padding: var(--padding-5xs);
   box-sizing: border-box;
 }
 .remarks1 {
@@ -473,10 +475,10 @@
 }
 .balance-value {
   flex: 1;
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   justify-content: center;
-  padding: 8px;
+  padding: var(--padding-5xs);
   box-sizing: border-box;
   min-width: 129px;
   text-align: right;
@@ -485,7 +487,7 @@
   align-self: stretch;
   flex-wrap: wrap;
   justify-content: flex-start;
-  gap: 2px;
+  gap: var(--gap-11xs);
 }
 .jan-202315 {
   height: 28px;
@@ -502,7 +504,7 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-end;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
 }
 .transfer-ke-bank-mandiri-livia-frame {
@@ -516,12 +518,12 @@
 .wrapper60 {
   width: 98px;
   flex-shrink: 0;
-  color: #00ba4a;
+  color: var(--green-g300);
 }
 .wrapper61 {
   flex: 1;
   min-width: 129px;
-  color: #0058b2;
+  color: var(--blue-b400);
 }
 .transfer-ke-bank-container6 {
   flex: 1;
@@ -539,7 +541,7 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
 }
 .wrapper62 {
@@ -558,7 +560,7 @@
   overflow: hidden;
   flex-shrink: 0;
   flex-direction: row;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
 }
 .transaction-row28 {
@@ -570,7 +572,7 @@
   align-self: stretch;
   flex-direction: row;
   flex-wrap: wrap;
-  gap: 2px;
+  gap: var(--gap-11xs);
 }
 .transaction-row29 {
   display: flex;
@@ -592,7 +594,7 @@
   align-self: stretch;
   flex-direction: row;
   flex-wrap: wrap;
-  gap: 2px;
+  gap: var(--gap-11xs);
   z-index: 4;
 }
 .transaction-row32 {
@@ -604,7 +606,7 @@
   align-self: stretch;
   flex-direction: row;
   flex-wrap: wrap;
-  gap: 2px;
+  gap: var(--gap-11xs);
 }
 .transaction-row33 {
   display: flex;
@@ -628,7 +630,7 @@
   text-align: left;
 }
 .content14 {
-  gap: 4px;
+  gap: var(--gap-9xs);
   max-width: 100%;
 }
 .content-wrapper2,
@@ -645,8 +647,8 @@
 }
 .contents1 {
   text-align: right;
-  font-size: 7px;
-  color: #333;
+  font-size: var(--font-size-6xs);
+  color: var(--black-b400-txttitle);
 }
 .body-wrapper,
 .body1,
@@ -660,7 +662,7 @@
 .body1 {
   flex: 1;
   flex-direction: column;
-  gap: 24px;
+  gap: var(--gap-5xl);
   z-index: 1;
 }
 .body-wrapper,
@@ -669,18 +671,18 @@
 }
 .body-wrapper {
   flex-direction: row;
-  padding: 0 16px;
+  padding: 0 var(--padding-base);
   box-sizing: border-box;
-  font-size: 8px;
-  color: #000;
+  font-size: var(--font-size-5xs);
+  color: var(--color-black);
 }
 .header-group {
   flex-direction: column;
-  gap: 16px;
+  gap: var(--gap-base);
   text-align: left;
-  font-size: 12px;
-  color: #fff;
-  font-family: "TT Interphases";
+  font-size: var(--font-size-xs);
+  color: var(--black-b0-bgwhite);
+  font-family: var(--font-tt-interphases);
 }
 .pt-bank-mandiri4 {
   width: 343.3px;
@@ -704,7 +706,8 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 10px 10px 12px 16px;
+  padding: var(--padding-3xs) var(--padding-3xs) var(--padding-xs)
+    var(--padding-base);
   box-sizing: border-box;
   min-width: 302px;
   max-width: 100%;
@@ -730,9 +733,9 @@
   flex-direction: row;
   flex-wrap: wrap;
   align-items: center;
-  padding: 0 16px 0 0;
+  padding: 0 var(--padding-base) 0 0;
   box-sizing: border-box;
-  gap: 45px;
+  gap: var(--gap-26xl);
 }
 .footer4,
 .root4 {
@@ -741,17 +744,17 @@
 }
 .footer4 {
   align-self: stretch;
-  border-top: 1px solid #ededed;
+  border-top: 1px solid var(--black-b50-bgdisabled);
   box-sizing: border-box;
   z-index: 1;
   text-align: left;
-  font-size: 8px;
-  color: #ada6ae;
-  font-family: "TT Interphases";
+  font-size: var(--font-size-5xs);
+  color: var(--black-character-low-emphasis);
+  font-family: var(--font-tt-interphases);
 }
 .root4 {
   width: 595px;
-  background-color: #fff;
+  background-color: var(--black-b0-bgwhite);
   position: relative;
   gap: 35px;
   line-height: normal;
@@ -767,9 +770,9 @@
     flex-wrap: wrap;
   }
   .content15 {
-    gap: 22px;
+    gap: var(--gap-3xl);
   }
   .root4 {
-    gap: 17px;
+    gap: var(--gap-mid);
   }
 }

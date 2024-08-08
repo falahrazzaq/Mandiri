@@ -16,7 +16,7 @@
   height: 81px;
   width: 595px;
   position: relative;
-  background-color: #007dfe;
+  background-color: var(--blue-b300-primary);
   display: none;
   max-width: 100%;
   z-index: 0;
@@ -50,7 +50,7 @@
 .consolidated-e-statement3 {
   margin: 0;
   height: 19.1px;
-  font-size: 10px;
+  font-size: var(--font-size-3xs);
   display: flex;
   font-style: italic;
   font-weight: 400;
@@ -71,7 +71,7 @@
 .header-content1 {
   width: 214.5px;
   justify-content: flex-end;
-  padding: 0 0 1px;
+  padding: 0 0 var(--padding-12xs);
   box-sizing: border-box;
 }
 .logo-variant-icon3 {
@@ -99,25 +99,25 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  gap: 12px;
-  font-size: 8px;
+  gap: var(--gap-xs);
+  font-size: var(--font-size-5xs);
 }
 .header3 {
   align-self: stretch;
-  background-color: #007dfe;
+  background-color: var(--blue-b300-primary);
   display: flex;
   flex-direction: row;
   align-items: flex-end;
   justify-content: space-between;
-  padding: 15px 16px 14px;
+  padding: var(--padding-mini) var(--padding-base) var(--padding-sm);
   box-sizing: border-box;
   position: relative;
   max-width: 100%;
-  gap: 20px;
+  gap: var(--gap-xl);
   z-index: 1;
 }
 .name6 {
-  color: #686868;
+  color: var(--black-b200-txtplaceholder);
 }
 .div75,
 .namaname3 {
@@ -140,16 +140,16 @@
 .period-values-container {
   flex: 1;
   align-items: center;
-  gap: 8px;
+  gap: var(--gap-5xs);
 }
 .namaname-container {
   align-self: stretch;
   align-items: flex-start;
-  gap: 4px;
+  gap: var(--gap-9xs);
 }
 .kcp-tangerang-summarecon3 {
   position: relative;
-  color: #333;
+  color: var(--black-b400-txttitle);
 }
 .cabangbranch-container,
 .frame-parent23,
@@ -158,22 +158,22 @@
   flex-direction: row;
   align-items: center;
   justify-content: flex-start;
-  gap: 8px;
+  gap: var(--gap-5xs);
 }
 .cabangbranch-container,
 .frame-parent23 {
   align-items: flex-start;
-  gap: 4px;
+  gap: var(--gap-9xs);
 }
 .frame-parent23 {
   width: 262px;
   flex-direction: column;
-  gap: 6px;
+  gap: var(--gap-7xs);
 }
 .jan-2023-3 {
   flex: 1;
   position: relative;
-  color: #333;
+  color: var(--black-b400-txttitle);
 }
 .tgl-downloaddownloaded-on-container3 {
   position: relative;
@@ -189,12 +189,12 @@
 }
 .frame-parent24 {
   flex-direction: column;
-  gap: 6px;
+  gap: var(--gap-7xs);
   min-width: 146px;
 }
 .period-info {
   flex-direction: row;
-  gap: 20px;
+  gap: var(--gap-xl);
   max-width: 100%;
 }
 .dari-153,
@@ -217,8 +217,8 @@
   flex-direction: row;
   align-items: center;
   justify-content: flex-end;
-  padding: 0 0 0 17px;
-  color: #686868;
+  padding: 0 0 0 var(--padding-mid);
+  color: var(--black-b200-txtplaceholder);
 }
 .customer-info,
 .name7 {
@@ -229,16 +229,16 @@
   width: 40px;
   flex-direction: column;
   align-items: flex-end;
-  gap: 6px;
+  gap: var(--gap-7xs);
   text-align: right;
-  color: #333;
+  color: var(--black-b400-txttitle);
 }
 .customer-info {
   align-self: stretch;
   flex-direction: row;
   flex-wrap: wrap;
   align-items: flex-start;
-  gap: 16px;
+  gap: var(--gap-base);
   max-width: 100%;
 }
 .detail-transaksitransaction-d-container1 {
@@ -261,7 +261,7 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 0 20px 0 0;
+  padding: 0 var(--padding-xl) 0 0;
   box-sizing: border-box;
   max-width: 100%;
 }
@@ -274,9 +274,9 @@
   );
   overflow: hidden;
   justify-content: center;
-  padding: 3.5px 8px;
-  font-size: 10px;
-  color: #fff;
+  padding: var(--padding-9xs-5) var(--padding-5xs);
+  font-size: var(--font-size-3xs);
+  color: var(--black-b0-bgwhite);
 }
 .danafunds1 {
   align-self: stretch;
@@ -299,24 +299,24 @@
 .product-container {
   flex: 1;
   overflow: hidden;
-  padding: 4px 8px;
+  padding: var(--padding-9xs) var(--padding-5xs);
   box-sizing: border-box;
 }
 .account-info {
   align-self: stretch;
-  background-color: #3fa7fc;
+  background-color: var(--color-cornflowerblue-200);
   text-align: left;
-  color: #fff;
+  color: var(--black-b0-bgwhite);
 }
 .span1 {
-  color: #000;
+  color: var(--color-black);
 }
 .nomor-rekening {
   margin: 0;
 }
 .account-number {
   margin: 0;
-  color: #494949;
+  color: var(--black-b300-txtbody);
 }
 .nomor-rekening-account-container {
   flex: 1;
@@ -324,10 +324,10 @@
 }
 .balance-label,
 .balance-labels {
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   justify-content: flex-start;
-  padding: 8px;
+  padding: var(--padding-5xs);
   box-sizing: border-box;
 }
 .balance-labels {
@@ -351,10 +351,10 @@
 }
 .ending-balance-label {
   flex: 1;
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   justify-content: center;
-  padding: 8px;
+  padding: var(--padding-5xs);
   box-sizing: border-box;
   min-width: 75px;
 }
@@ -363,7 +363,7 @@
   flex-wrap: wrap;
   justify-content: flex-start;
   padding: 0;
-  gap: 2px;
+  gap: var(--gap-11xs);
 }
 .b9 {
   height: 24px;
@@ -377,7 +377,7 @@
   overflow: hidden;
   flex-shrink: 0;
   flex-direction: row;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
   text-align: left;
 }
@@ -394,7 +394,7 @@
   flex: 1;
   overflow: hidden;
   flex-direction: row;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
   min-width: 75px;
 }
@@ -402,7 +402,7 @@
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
-  color: #00ba4a;
+  color: var(--green-g300);
 }
 .wrapper19,
 .wrapper20 {
@@ -413,7 +413,7 @@
   align-items: flex-start;
 }
 .wrapper20 {
-  color: #0058b2;
+  color: var(--blue-b400);
 }
 .table3,
 .transaction-values,
@@ -434,11 +434,11 @@
 .amount-values,
 .remarks-values,
 .transaction-values {
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   flex-shrink: 0;
   justify-content: flex-start;
-  padding: 8px;
+  padding: var(--padding-5xs);
   box-sizing: border-box;
 }
 .remarks-values {
@@ -461,10 +461,10 @@
 }
 .balance-history {
   flex: 1;
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   justify-content: center;
-  padding: 8px;
+  padding: var(--padding-5xs);
   box-sizing: border-box;
   min-width: 129px;
   text-align: right;
@@ -476,13 +476,13 @@
 .transaction-row {
   align-self: stretch;
   flex-wrap: wrap;
-  gap: 2px;
+  gap: var(--gap-11xs);
 }
 .jan-2023-wrapper {
   width: 90px;
   overflow: hidden;
   flex-shrink: 0;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
 }
 .transfer-ke-bank-container {
@@ -500,7 +500,7 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-end;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
 }
 .transfer-ke-bank-mandiri-livia-wrapper {
@@ -514,12 +514,12 @@
 .wrapper21 {
   width: 98px;
   flex-shrink: 0;
-  color: #00ba4a;
+  color: var(--green-g300);
 }
 .wrapper22 {
   flex: 1;
   min-width: 129px;
-  color: #0058b2;
+  color: var(--blue-b400);
 }
 .transfer-ke-bank-container1 {
   flex: 1;
@@ -537,7 +537,7 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
 }
 .wrapper23 {
@@ -550,7 +550,7 @@
   align-self: stretch;
   flex-direction: row;
   flex-wrap: wrap;
-  gap: 2px;
+  gap: var(--gap-11xs);
 }
 .transaction-row11 {
   display: flex;
@@ -572,7 +572,7 @@
   align-self: stretch;
   flex-direction: row;
   flex-wrap: wrap;
-  gap: 2px;
+  gap: var(--gap-11xs);
   z-index: 3;
 }
 .transaction-row14 {
@@ -584,7 +584,7 @@
   align-self: stretch;
   flex-direction: row;
   flex-wrap: wrap;
-  gap: 2px;
+  gap: var(--gap-11xs);
 }
 .transaction-row15 {
   display: flex;
@@ -608,7 +608,7 @@
   text-align: left;
 }
 .content12 {
-  gap: 4px;
+  gap: var(--gap-9xs);
   max-width: 100%;
 }
 .balance-table,
@@ -623,12 +623,12 @@
   justify-content: flex-start;
   max-width: 100%;
   text-align: right;
-  font-size: 7px;
+  font-size: var(--font-size-6xs);
 }
 .contents {
-  gap: 8px;
-  font-size: 9px;
-  color: #333;
+  gap: var(--gap-5xs);
+  font-size: var(--font-size-4xs);
+  color: var(--black-b400-txttitle);
 }
 .body,
 .body-container,
@@ -642,7 +642,7 @@
 .body {
   flex: 1;
   flex-direction: column;
-  gap: 24px;
+  gap: var(--gap-5xl);
   z-index: 1;
 }
 .body-container,
@@ -651,18 +651,18 @@
 }
 .body-container {
   flex-direction: row;
-  padding: 0 16px;
+  padding: 0 var(--padding-base);
   box-sizing: border-box;
-  font-size: 8px;
-  color: #000;
+  font-size: var(--font-size-5xs);
+  color: var(--color-black);
 }
 .structure {
   flex-direction: column;
-  gap: 16px;
+  gap: var(--gap-base);
   text-align: left;
-  font-size: 12px;
-  color: #fff;
-  font-family: "TT Interphases";
+  font-size: var(--font-size-xs);
+  color: var(--black-b0-bgwhite);
+  font-family: var(--font-tt-interphases);
 }
 .pt-bank-mandiri3 {
   width: 343.3px;
@@ -687,7 +687,8 @@
   flex: 1;
   flex-direction: column;
   align-items: flex-start;
-  padding: 10px 10px 12px 16px;
+  padding: var(--padding-3xs) var(--padding-3xs) var(--padding-xs)
+    var(--padding-base);
   box-sizing: border-box;
   min-width: 302px;
 }
@@ -712,9 +713,9 @@
   flex-direction: row;
   flex-wrap: wrap;
   align-items: center;
-  padding: 0 16px 0 0;
+  padding: 0 var(--padding-base) 0 0;
   box-sizing: border-box;
-  gap: 45px;
+  gap: var(--gap-26xl);
 }
 .footer3,
 .root3 {
@@ -723,17 +724,17 @@
 }
 .footer3 {
   align-self: stretch;
-  border-top: 1px solid #ededed;
+  border-top: 1px solid var(--black-b50-bgdisabled);
   box-sizing: border-box;
   z-index: 1;
   text-align: left;
-  font-size: 8px;
-  color: #ada6ae;
-  font-family: "TT Interphases";
+  font-size: var(--font-size-5xs);
+  color: var(--black-character-low-emphasis);
+  font-family: var(--font-tt-interphases);
 }
 .root3 {
   width: 595px;
-  background-color: #fff;
+  background-color: var(--black-b0-bgwhite);
   position: relative;
   gap: 27px;
   line-height: normal;
@@ -749,6 +750,6 @@
     flex-wrap: wrap;
   }
   .content13 {
-    gap: 22px;
+    gap: var(--gap-3xl);
   }
 }

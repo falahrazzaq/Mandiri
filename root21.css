@@ -16,7 +16,7 @@
   height: 81px;
   width: 595px;
   position: relative;
-  background-color: #007dfe;
+  background-color: var(--blue-b300-primary);
   display: none;
   max-width: 100%;
   z-index: 0;
@@ -50,7 +50,7 @@
 .consolidated-e-statement5 {
   margin: 0;
   height: 19.1px;
-  font-size: 10px;
+  font-size: var(--font-size-3xs);
   display: flex;
   font-style: italic;
   font-weight: 400;
@@ -71,7 +71,7 @@
 .sub-header {
   width: 214.5px;
   justify-content: flex-end;
-  padding: 0 0 1px;
+  padding: 0 0 var(--padding-12xs);
   box-sizing: border-box;
 }
 .logo-variant-icon5 {
@@ -99,25 +99,25 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  gap: 12px;
-  font-size: 8px;
+  gap: var(--gap-xs);
+  font-size: var(--font-size-5xs);
 }
 .header5 {
   align-self: stretch;
-  background-color: #007dfe;
+  background-color: var(--blue-b300-primary);
   display: flex;
   flex-direction: row;
   align-items: flex-end;
   justify-content: space-between;
-  padding: 15px 16px 14px;
+  padding: var(--padding-mini) var(--padding-base) var(--padding-sm);
   box-sizing: border-box;
   position: relative;
   max-width: 100%;
-  gap: 20px;
+  gap: var(--gap-xl);
   z-index: 1;
 }
 .name10 {
-  color: #686868;
+  color: var(--black-b200-txtplaceholder);
 }
 .namaname5,
 .name-separator1 {
@@ -140,16 +140,16 @@
 .cust-name-period-value {
   flex: 1;
   align-items: center;
-  gap: 8px;
+  gap: var(--gap-5xs);
 }
 .cust-name-period {
   align-self: stretch;
   align-items: flex-start;
-  gap: 4px;
+  gap: var(--gap-9xs);
 }
 .kcp-tangerang-summarecon5 {
   position: relative;
-  color: #333;
+  color: var(--black-b400-txttitle);
 }
 .cust-branch-date,
 .cust-branch-date-value,
@@ -158,22 +158,22 @@
   flex-direction: row;
   align-items: center;
   justify-content: flex-start;
-  gap: 8px;
+  gap: var(--gap-5xs);
 }
 .cust-branch-date,
 .cust-info-header {
   align-items: flex-start;
-  gap: 4px;
+  gap: var(--gap-9xs);
 }
 .cust-info-header {
   width: 262px;
   flex-direction: column;
-  gap: 6px;
+  gap: var(--gap-7xs);
 }
 .jan-2023-5 {
   flex: 1;
   position: relative;
-  color: #333;
+  color: var(--black-b400-txttitle);
 }
 .tgl-downloaddownloaded-on-container5 {
   position: relative;
@@ -189,12 +189,12 @@
 }
 .cust-info-header1 {
   flex-direction: column;
-  gap: 6px;
+  gap: var(--gap-7xs);
   min-width: 146px;
 }
 .cust-info-table {
   flex-direction: row;
-  gap: 20px;
+  gap: var(--gap-xl);
   max-width: 100%;
 }
 .dari-155 {
@@ -214,8 +214,8 @@
   flex-direction: row;
   align-items: center;
   justify-content: flex-end;
-  padding: 0 0 0 17px;
-  color: #686868;
+  padding: 0 0 0 var(--padding-mid);
+  color: var(--black-b200-txtplaceholder);
 }
 .customer-info1,
 .name11 {
@@ -226,16 +226,16 @@
   width: 40px;
   flex-direction: column;
   align-items: flex-end;
-  gap: 6px;
+  gap: var(--gap-7xs);
   text-align: right;
-  color: #333;
+  color: var(--black-b400-txttitle);
 }
 .customer-info1 {
   align-self: stretch;
   flex-direction: row;
   flex-wrap: wrap;
   align-items: flex-start;
-  gap: 16px;
+  gap: var(--gap-base);
   max-width: 100%;
 }
 .schroder-usd-bond {
@@ -255,20 +255,20 @@
 .stock-fund-name-header {
   flex: 1;
   overflow: hidden;
-  padding: 4px 8px;
+  padding: var(--padding-9xs) var(--padding-5xs);
   box-sizing: border-box;
 }
 .stock-fund-table-header-row {
   align-self: stretch;
-  background-color: #40a9ff;
-  color: #fff;
+  background-color: var(--color-cornflowerblue-100);
+  color: var(--black-b0-bgwhite);
 }
 .jumlah-unit {
   margin: 0;
 }
 .total-unit {
   margin: 0;
-  color: #494949;
+  color: var(--black-b300-txtbody);
 }
 .jumlah-unit-total-container {
   flex: 1;
@@ -277,14 +277,14 @@
 .stock-fund-average-n-a-v,
 .stock-fund-total-unit {
   width: 70px;
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   flex-shrink: 0;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 8px 8px 35px;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-16xl);
   box-sizing: border-box;
 }
 .stock-fund-average-n-a-v {
@@ -299,14 +299,14 @@
 }
 .stock-fund-investment-value {
   width: 80px;
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   flex-shrink: 0;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 8px 8px 17px;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-mid);
   box-sizing: border-box;
 }
 .nilai-pasar-valuta-container {
@@ -318,14 +318,14 @@
 }
 .stock-fund-market-value {
   width: 60px;
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   flex-shrink: 0;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 8px;
+  padding: var(--padding-5xs);
   box-sizing: border-box;
 }
 .potensi-untungrugi-potential-container {
@@ -340,12 +340,12 @@
 .stock-fund-gain-loss {
   width: 55px;
   flex-shrink: 0;
-  padding: 8px;
+  padding: var(--padding-5xs);
 }
 .stock-fund-exchange-rate,
 .stock-fund-gain-loss,
 .stock-fund-market-value-i-d-r {
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   display: flex;
   flex-direction: row;
@@ -356,12 +356,12 @@
 .stock-fund-exchange-rate {
   width: 51px;
   flex-shrink: 0;
-  padding: 8px 8px 26px;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-7xl);
   text-align: left;
 }
 .stock-fund-market-value-i-d-r {
   flex: 1;
-  padding: 8px 8px 35px;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-16xl);
   min-width: 60px;
 }
 .stock-fund-unit-header {
@@ -371,11 +371,11 @@
   flex-wrap: wrap;
   align-items: flex-start;
   justify-content: center;
-  gap: 2px;
+  gap: var(--gap-11xs);
   text-align: right;
 }
 .investment-account {
-  color: #494949;
+  color: var(--black-b300-txtbody);
 }
 .akun-investasiinvestment-acco-container {
   width: 191px;
@@ -384,7 +384,7 @@
 }
 .stock-fund-account {
   align-self: stretch;
-  background-color: #e3f1fc;
+  background-color: var(--color-aliceblue);
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -396,14 +396,14 @@
 .stock-fund-currency-u-s-d-unit,
 .stock-fund-currency-unit {
   width: 70px;
-  background-color: #fff;
+  background-color: var(--black-b0-bgwhite);
   overflow: hidden;
   flex-shrink: 0;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
 }
 .stock-fund-currency-i-d-r,
@@ -422,7 +422,7 @@
 }
 .p {
   margin: 0;
-  color: #00ba4a;
+  color: var(--green-g300);
 }
 .usd-1000-667-container {
   height: 24px;
@@ -435,14 +435,14 @@
 }
 .stock-fund-currency-i-d-r-unit {
   width: 55px;
-  background-color: #fff;
+  background-color: var(--black-b0-bgwhite);
   overflow: hidden;
   flex-shrink: 0;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
 }
 .usd-1-container {
@@ -454,13 +454,13 @@
   min-height: 24px;
 }
 .stock-fund-currency-combined {
-  background-color: #fff;
+  background-color: var(--black-b0-bgwhite);
   overflow: hidden;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   text-align: left;
 }
 .stock-fund-empty {
@@ -472,13 +472,13 @@
 }
 .stock-fund-empty-row {
   flex: 1;
-  background-color: #fff;
+  background-color: var(--black-b0-bgwhite);
   overflow: hidden;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-end;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
   min-width: 60px;
 }
@@ -493,7 +493,7 @@
 .stock-fund-currency {
   align-self: stretch;
   flex-wrap: wrap;
-  gap: 2px;
+  gap: var(--gap-11xs);
   text-align: right;
 }
 .stock-fund-transaction-date,
@@ -502,10 +502,10 @@
 }
 .stock-fund-transaction-date {
   width: 100px;
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   flex-shrink: 0;
-  padding: 8px;
+  padding: var(--padding-5xs);
   box-sizing: border-box;
 }
 .stock-fund-transaction-type {
@@ -514,10 +514,10 @@
 .stock-fund-transaction-average,
 .stock-fund-transaction-total-u,
 .stock-fund-transaction-type {
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   flex-shrink: 0;
-  padding: 8px;
+  padding: var(--padding-5xs);
   box-sizing: border-box;
 }
 .stock-fund-transaction-total-u {
@@ -540,16 +540,16 @@
 }
 .stock-fund-transaction-amount {
   flex: 1;
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
-  padding: 8px;
+  padding: var(--padding-5xs);
   box-sizing: border-box;
   min-width: 66px;
 }
 .stock-fund-transaction-header {
   align-self: stretch;
   flex-wrap: wrap;
-  gap: 2px;
+  gap: var(--gap-11xs);
 }
 .stock-fund-transaction-date-in {
   width: 100px;
@@ -566,7 +566,7 @@
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
 }
 .stock-fund-transaction-type-in {
@@ -603,7 +603,7 @@
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
 }
 .average-n-a-v-container {
@@ -625,11 +625,11 @@
   justify-content: flex-start;
 }
 .table8 {
-  border-bottom: 1px solid #ededed;
+  border-bottom: 1px solid var(--black-b50-bgdisabled);
   text-align: right;
 }
 .content16 {
-  gap: 4px;
+  gap: var(--gap-9xs);
   max-width: 100%;
 }
 .pasar-uangmoney-market-container {
@@ -650,33 +650,33 @@
 .nab-rata-rata-average-nav-wrapper,
 .nabunit-pasar-navunit-market-wrapper {
   width: 50px;
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   flex-shrink: 0;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 8px 6px 17px;
+  padding: var(--padding-5xs) var(--padding-7xs) var(--padding-mid);
   box-sizing: border-box;
 }
 .nab-rata-rata-average-nav-wrapper,
 .nabunit-pasar-navunit-market-wrapper {
   justify-content: center;
-  padding: 8px;
+  padding: var(--padding-5xs);
 }
 .nabunit-pasar-navunit-market-wrapper {
   width: 60px;
 }
 .nilai-investasi-valuta-asal-wrapper {
   flex: 1;
-  padding: 8px;
+  padding: var(--padding-5xs);
   min-width: 52px;
 }
 .kurs-exchange-rate-frame,
 .nilai-investasi-valuta-asal-wrapper,
 .potensi-untungrugi-potential-wrapper {
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   display: flex;
   flex-direction: row;
@@ -686,13 +686,13 @@
 }
 .potensi-untungrugi-potential-wrapper {
   flex: 1;
-  padding: 8px 8px 26px;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-7xl);
   min-width: 58px;
 }
 .kurs-exchange-rate-frame {
   width: 50px;
   flex-shrink: 0;
-  padding: 8px 8px 17px;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-mid);
   text-align: left;
 }
 .akun-investasiinvestment-acco-container1 {
@@ -706,13 +706,13 @@
   flex-shrink: 0;
 }
 .wrapper96 {
-  background-color: #fff;
+  background-color: var(--black-b0-bgwhite);
   overflow: hidden;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
 }
 .wrapper97 {
@@ -721,12 +721,12 @@
 .idr-75000000-wrapper,
 .wrapper97,
 .wrapper98 {
-  background-color: #fff;
+  background-color: var(--black-b0-bgwhite);
   overflow: hidden;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
 }
 .wrapper98 {
@@ -748,12 +748,12 @@
 .idr-10000000-1333-wrapper,
 .wrapper100,
 .wrapper99 {
-  background-color: #fff;
+  background-color: var(--black-b0-bgwhite);
   overflow: hidden;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
 }
 .wrapper99 {
@@ -776,7 +776,7 @@
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
-  gap: 20px;
+  gap: var(--gap-xl);
   max-width: 100%;
 }
 .content-table-header,
@@ -792,8 +792,8 @@
   max-width: 100%;
 }
 .contents2 {
-  font-size: 7px;
-  color: #333;
+  font-size: var(--font-size-6xs);
+  color: var(--black-b400-txttitle);
 }
 .body-frame,
 .body2,
@@ -807,7 +807,7 @@
 .body2 {
   flex: 1;
   flex-direction: column;
-  gap: 24px;
+  gap: var(--gap-5xl);
   z-index: 1;
 }
 .body-frame,
@@ -816,18 +816,18 @@
 }
 .body-frame {
   flex-direction: row;
-  padding: 0 16px;
+  padding: 0 var(--padding-base);
   box-sizing: border-box;
-  font-size: 8px;
-  color: #000;
+  font-size: var(--font-size-5xs);
+  color: var(--color-black);
 }
 .header-container {
   flex-direction: column;
-  gap: 16px;
+  gap: var(--gap-base);
   text-align: left;
-  font-size: 12px;
-  color: #fff;
-  font-family: "TT Interphases";
+  font-size: var(--font-size-xs);
+  color: var(--black-b0-bgwhite);
+  font-family: var(--font-tt-interphases);
 }
 .pt-bank-mandiri5 {
   width: 343.3px;
@@ -852,7 +852,8 @@
   flex: 1;
   flex-direction: column;
   align-items: flex-start;
-  padding: 10px 10px 12px 16px;
+  padding: var(--padding-3xs) var(--padding-3xs) var(--padding-xs)
+    var(--padding-base);
   box-sizing: border-box;
   min-width: 302px;
 }
@@ -877,9 +878,9 @@
   flex-direction: row;
   flex-wrap: wrap;
   align-items: center;
-  padding: 0 16px 0 0;
+  padding: 0 var(--padding-base) 0 0;
   box-sizing: border-box;
-  gap: 45px;
+  gap: var(--gap-26xl);
 }
 .footer5,
 .root5 {
@@ -888,19 +889,19 @@
 }
 .footer5 {
   align-self: stretch;
-  border-top: 1px solid #ededed;
+  border-top: 1px solid var(--black-b50-bgdisabled);
   box-sizing: border-box;
   z-index: 1;
   text-align: left;
-  font-size: 8px;
-  color: #ada6ae;
-  font-family: "TT Interphases";
+  font-size: var(--font-size-5xs);
+  color: var(--black-character-low-emphasis);
+  font-family: var(--font-tt-interphases);
 }
 .root5 {
   width: 595px;
-  background-color: #fff;
+  background-color: var(--black-b0-bgwhite);
   position: relative;
-  gap: 38px;
+  gap: var(--gap-19xl);
   line-height: normal;
   letter-spacing: normal;
 }
@@ -914,9 +915,9 @@
     flex-wrap: wrap;
   }
   .content19 {
-    gap: 22px;
+    gap: var(--gap-3xl);
   }
   .root5 {
-    gap: 19px;
+    gap: var(--gap-lgi);
   }
 }

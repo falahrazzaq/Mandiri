@@ -16,7 +16,7 @@
   height: 81px;
   width: 595px;
   position: relative;
-  background-color: #007dfe;
+  background-color: var(--blue-b300-primary);
   display: none;
   max-width: 100%;
   z-index: 0;
@@ -50,7 +50,7 @@
 .consolidated-e-statement6 {
   margin: 0;
   height: 19.1px;
-  font-size: 10px;
+  font-size: var(--font-size-3xs);
   display: flex;
   font-style: italic;
   font-weight: 400;
@@ -71,7 +71,7 @@
 .header-inner2 {
   width: 214.5px;
   justify-content: flex-end;
-  padding: 0 0 1px;
+  padding: 0 0 var(--padding-12xs);
   box-sizing: border-box;
 }
 .logo-variant-icon6 {
@@ -99,25 +99,25 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  gap: 12px;
-  font-size: 8px;
+  gap: var(--gap-xs);
+  font-size: var(--font-size-5xs);
 }
 .header6 {
   align-self: stretch;
-  background-color: #007dfe;
+  background-color: var(--blue-b300-primary);
   display: flex;
   flex-direction: row;
   align-items: flex-end;
   justify-content: space-between;
-  padding: 15px 16px 14px;
+  padding: var(--padding-mini) var(--padding-base) var(--padding-sm);
   box-sizing: border-box;
   position: relative;
   max-width: 100%;
-  gap: 20px;
+  gap: var(--gap-xl);
   z-index: 1;
 }
 .name12 {
-  color: #686868;
+  color: var(--black-b200-txtplaceholder);
 }
 .namaname6 {
   width: 90px;
@@ -134,12 +134,12 @@
 .shoe-size {
   flex: 1;
   align-items: center;
-  gap: 8px;
+  gap: var(--gap-5xs);
 }
 .brand {
   align-self: stretch;
   align-items: flex-start;
-  gap: 4px;
+  gap: var(--gap-9xs);
 }
 .filters {
   position: relative;
@@ -148,7 +148,7 @@
 }
 .kcp-tangerang-summarecon6 {
   position: relative;
-  color: #333;
+  color: var(--black-b400-txttitle);
 }
 .cabangbranch-parent2,
 .customer-branch-info,
@@ -157,22 +157,22 @@
   flex-direction: row;
   align-items: center;
   justify-content: flex-start;
-  gap: 8px;
+  gap: var(--gap-5xs);
 }
 .cabangbranch-parent2,
 .filter {
   align-items: flex-start;
-  gap: 4px;
+  gap: var(--gap-9xs);
 }
 .filter {
   width: 262px;
   flex-direction: column;
-  gap: 6px;
+  gap: var(--gap-7xs);
 }
 .jan-2023-6 {
   flex: 1;
   position: relative;
-  color: #333;
+  color: var(--black-b400-txttitle);
 }
 .tgl-downloaddownloaded-on-container6 {
   position: relative;
@@ -188,12 +188,12 @@
 }
 .sort {
   flex-direction: column;
-  gap: 6px;
+  gap: var(--gap-7xs);
   min-width: 146px;
 }
 .color {
   flex-direction: row;
-  gap: 20px;
+  gap: var(--gap-xl);
   max-width: 100%;
 }
 .dari-156,
@@ -216,8 +216,8 @@
   flex-direction: row;
   align-items: center;
   justify-content: flex-end;
-  padding: 0 0 0 17px;
-  color: #686868;
+  padding: 0 0 0 var(--padding-mid);
+  color: var(--black-b200-txtplaceholder);
 }
 .gender,
 .name13 {
@@ -228,16 +228,16 @@
   width: 40px;
   flex-direction: column;
   align-items: flex-end;
-  gap: 6px;
+  gap: var(--gap-7xs);
   text-align: right;
-  color: #333;
+  color: var(--black-b400-txttitle);
 }
 .gender {
   align-self: stretch;
   flex-direction: row;
   flex-wrap: wrap;
   align-items: flex-start;
-  gap: 16px;
+  gap: var(--gap-base);
   max-width: 100%;
 }
 .produkproduct-deposito-idr-container {
@@ -250,7 +250,7 @@
 }
 .opening-date {
   margin: 0;
-  color: #494949;
+  color: var(--black-b300-txtbody);
 }
 .tanggal-pembukaan-opening-container {
   height: 36px;
@@ -270,12 +270,12 @@
 }
 .metode-perpanjangan-maturity-i-wrapper,
 .tanggal-jatuh-tempo-due-date-wrapper {
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-  padding: 8px;
+  padding: var(--padding-5xs);
   box-sizing: border-box;
 }
 .metode-perpanjangan-maturity-i-wrapper {
@@ -289,18 +289,18 @@
   min-width: 38px;
 }
 .span6 {
-  color: #000;
+  color: var(--color-black);
 }
 .product-tile {
   width: 45px;
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   flex-shrink: 0;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: center;
-  padding: 8px;
+  padding: var(--padding-5xs);
   box-sizing: border-box;
 }
 .nominal-pembukaan-opening-container {
@@ -313,14 +313,14 @@
 }
 .product-tile1 {
   width: 80px;
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   flex-shrink: 0;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: center;
-  padding: 8px 8px 17px;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-mid);
   box-sizing: border-box;
   text-align: right;
 }
@@ -338,13 +338,13 @@
 }
 .products7 {
   flex: 1;
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 8px 8px 17px;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-mid);
   box-sizing: border-box;
   min-width: 38px;
 }
@@ -355,20 +355,20 @@
 .nav,
 .topbaroffer {
   width: 80px;
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   flex-shrink: 0;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: center;
-  padding: 8px 8px 26px;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-7xl);
   box-sizing: border-box;
   text-align: right;
 }
 .nav {
   width: 45px;
-  padding: 8px;
+  padding: var(--padding-5xs);
 }
 .nomor-rekeningaccount-number-container {
   position: relative;
@@ -384,13 +384,13 @@
 .nomor-rekeningaccount-number-wrapper {
   flex: 1;
   overflow: hidden;
-  padding: 4px 8px;
+  padding: var(--padding-9xs) var(--padding-5xs);
   box-sizing: border-box;
 }
 .account-header-labels {
   align-self: stretch;
-  background-color: #e3f1fc;
-  color: #494949;
+  background-color: var(--color-aliceblue);
+  color: var(--black-b300-txtbody);
 }
 .dengan-bunga {
   height: 24px;
@@ -405,7 +405,7 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-end;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
 }
 .aug-2023 {
   height: 24px;
@@ -421,7 +421,7 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
   min-width: 38px;
 }
@@ -440,7 +440,7 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-end;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
 }
 .idr-2000000000 {
@@ -464,7 +464,7 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-end;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
 }
 .wrapper113 {
@@ -491,7 +491,7 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-end;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
 }
 .total-frame {
@@ -525,12 +525,12 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-end;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
-  font-family: "TT Interphases";
+  font-family: var(--font-tt-interphases);
   font-weight: 700;
-  font-size: 7px;
-  color: #333;
+  font-size: var(--font-size-6xs);
+  color: var(--black-b400-txttitle);
 }
 .account-header-labels4,
 .account-table-header-wrapper,
@@ -541,10 +541,10 @@
   justify-content: flex-start;
 }
 .account-header-labels4 {
-  border-top: 1px solid #ededed;
-  border-bottom: 1px solid #ededed;
+  border-top: 1px solid var(--black-b50-bgdisabled);
+  border-bottom: 1px solid var(--black-b50-bgdisabled);
   flex-direction: row;
-  gap: 2px;
+  gap: var(--gap-11xs);
 }
 .account-table-header-wrapper,
 .content20 {
@@ -552,7 +552,7 @@
   max-width: 100%;
 }
 .content20 {
-  border-bottom: 1px solid #ededed;
+  border-bottom: 1px solid var(--black-b50-bgdisabled);
   box-sizing: border-box;
 }
 .produkproduct-deposito-usd-container {
@@ -562,26 +562,26 @@
 }
 .usd-account-header-labels {
   align-self: stretch;
-  background-color: #40a9ff;
+  background-color: var(--color-cornflowerblue-100);
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
   max-width: 100%;
-  color: #fff;
+  color: var(--black-b0-bgwhite);
 }
 .usd-maturity-date-info,
 .usd-maturity-options,
 .usd-maturity-options1,
 .usd-opening-amount-info {
   flex: 1;
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 8px 8px 17px;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-mid);
   box-sizing: border-box;
   min-width: 42px;
 }
@@ -589,7 +589,7 @@
 .usd-maturity-options1,
 .usd-opening-amount-info {
   justify-content: center;
-  padding: 8px;
+  padding: var(--padding-5xs);
 }
 .usd-maturity-date-info,
 .usd-opening-amount-info {
@@ -597,14 +597,14 @@
 }
 .usd-opening-amount-info {
   justify-content: center;
-  padding: 8px 8px 17px;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-mid);
   min-width: 45px;
   text-align: right;
 }
 .usd-exchange-rate-info {
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   justify-content: flex-start;
-  padding: 8px 8px 26px;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-7xl);
   min-width: 42px;
 }
 .jan-2023-wrapper34,
@@ -618,15 +618,15 @@
   box-sizing: border-box;
 }
 .usd-current-amount-info {
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   justify-content: center;
-  padding: 8px 8px 26px;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-7xl);
   min-width: 45px;
   text-align: right;
 }
 .jan-2023-wrapper34 {
   justify-content: flex-start;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   min-width: 42px;
 }
 .tanpa-perpanjangan {
@@ -642,7 +642,7 @@
   flex: 1;
   overflow: hidden;
   justify-content: flex-end;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
   min-width: 42px;
 }
@@ -657,17 +657,17 @@
   flex: 1;
   overflow: hidden;
   justify-content: flex-end;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
   min-width: 45px;
   text-align: right;
 }
 .usd-account-header-labels3 {
   align-self: stretch;
-  border-bottom: 1px solid #ededed;
+  border-bottom: 1px solid var(--black-b50-bgdisabled);
   flex-wrap: wrap;
   justify-content: flex-start;
-  gap: 2px;
+  gap: var(--gap-11xs);
 }
 .usd-account-header-labels-child {
   height: 24px;
@@ -686,12 +686,12 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-end;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
-  font-family: "TT Interphases";
+  font-family: var(--font-tt-interphases);
   font-weight: 700;
-  font-size: 7px;
-  color: #333;
+  font-size: var(--font-size-6xs);
+  color: var(--black-b400-txttitle);
 }
 .contents5 {
   align-self: stretch;
@@ -699,7 +699,7 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  gap: 20px;
+  gap: var(--gap-xl);
   max-width: 100%;
 }
 .reksa-danamutual-fund-container2 {
@@ -724,21 +724,21 @@
   align-items: flex-start;
 }
 .average-nav-info {
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   justify-content: flex-start;
-  padding: 8px 6px 17px;
+  padding: var(--padding-5xs) var(--padding-7xs) var(--padding-mid);
   box-sizing: border-box;
 }
 .average-nav-info1 {
   justify-content: center;
-  padding: 8px;
+  padding: var(--padding-5xs);
 }
 .average-nav-info1,
 .gain-loss-info,
 .investment-value-info,
 .nav-unit-info {
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   box-sizing: border-box;
 }
@@ -749,7 +749,7 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: center;
-  padding: 8px;
+  padding: var(--padding-5xs);
 }
 .gain-loss-info,
 .investment-value-info {
@@ -760,11 +760,11 @@
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-  padding: 8px;
+  padding: var(--padding-5xs);
   min-width: 52px;
 }
 .gain-loss-info {
-  padding: 8px 8px 26px;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-7xl);
   min-width: 58px;
 }
 .fund-detail-labels1,
@@ -776,11 +776,11 @@
 }
 .fund-exchange-rate-info {
   width: 50px;
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
   flex-shrink: 0;
   justify-content: flex-start;
-  padding: 8px 8px 17px;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-mid);
   box-sizing: border-box;
   text-align: left;
 }
@@ -788,11 +788,11 @@
   align-self: stretch;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 2px;
+  gap: var(--gap-11xs);
   text-align: right;
 }
 .investment-account3 {
-  color: #494949;
+  color: var(--black-b300-txtbody);
 }
 .akun-investasiinvestment-acco-container3 {
   width: 191px;
@@ -808,15 +808,15 @@
 }
 .fund-detail-labels2 {
   align-self: stretch;
-  background-color: #e3f1fc;
+  background-color: var(--color-aliceblue);
   max-width: 100%;
 }
 .wrapper119 {
   width: 50px;
-  background-color: #fff;
+  background-color: var(--black-b0-bgwhite);
   overflow: hidden;
   flex-shrink: 0;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
 }
 .wrapper120 {
@@ -827,12 +827,12 @@
 .idr-75000000-frame,
 .wrapper120,
 .wrapper121 {
-  background-color: #fff;
+  background-color: var(--black-b0-bgwhite);
   overflow: hidden;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
 }
 .wrapper121 {
@@ -848,14 +848,14 @@
 }
 .p3 {
   margin: 0;
-  color: #00ba4a;
+  color: var(--green-g300);
 }
 .idr-10000000-1333-wrapper1,
 .wrapper122 {
-  background-color: #fff;
+  background-color: var(--black-b0-bgwhite);
   overflow: hidden;
   justify-content: flex-start;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
 }
 .idr-10000000-1333-wrapper1 {
@@ -879,10 +879,10 @@
 }
 .wrapper123 {
   flex: 1;
-  background-color: #fff;
+  background-color: var(--black-b0-bgwhite);
   overflow: hidden;
   justify-content: flex-end;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
   min-width: 58px;
 }
@@ -890,14 +890,14 @@
   align-self: stretch;
   flex-wrap: wrap;
   justify-content: flex-start;
-  gap: 2px;
+  gap: var(--gap-11xs);
   text-align: right;
 }
 .transaction-details {
   width: 100px;
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
-  padding: 8px;
+  padding: var(--padding-5xs);
   box-sizing: border-box;
   text-align: left;
 }
@@ -912,9 +912,9 @@
 }
 .transaction-type1 {
   width: 140px;
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
-  padding: 8px;
+  padding: var(--padding-5xs);
   box-sizing: border-box;
   text-align: left;
 }
@@ -924,9 +924,9 @@
 .buy-average,
 .empty,
 .empty1 {
-  background-color: #cae5fc;
+  background-color: var(--color-lavender);
   overflow: hidden;
-  padding: 8px;
+  padding: var(--padding-5xs);
   box-sizing: border-box;
 }
 .empty {
@@ -953,14 +953,14 @@
 .transactions {
   align-self: stretch;
   flex-wrap: wrap;
-  gap: 2px;
+  gap: var(--gap-11xs);
 }
 .jan-2023-wrapper35,
 .pembelian-wrapper1 {
   width: 100px;
   overflow: hidden;
   flex-shrink: 0;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
   text-align: left;
 }
@@ -978,7 +978,7 @@
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
 }
 .wrapper125 {
@@ -992,7 +992,7 @@
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-  padding: 0 8px;
+  padding: 0 var(--padding-5xs);
   box-sizing: border-box;
 }
 .idr-10000000-frame {
@@ -1015,14 +1015,14 @@
   flex-direction: column;
 }
 .table14 {
-  border-bottom: 1px solid #ededed;
+  border-bottom: 1px solid var(--black-b50-bgdisabled);
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
   text-align: right;
 }
 .content22 {
-  gap: 4px;
+  gap: var(--gap-9xs);
 }
 .content-wrapper3,
 .content22,
@@ -1035,10 +1035,10 @@
 .content-wrapper3 {
   align-self: stretch;
   flex-direction: column;
-  font-size: 7px;
+  font-size: var(--font-size-6xs);
 }
 .contents7 {
-  gap: 8px;
+  gap: var(--gap-5xs);
 }
 .contents4,
 .contents6,
@@ -1051,12 +1051,12 @@
   align-items: flex-start;
   justify-content: flex-start;
   max-width: 100%;
-  font-size: 9px;
+  font-size: var(--font-size-4xs);
 }
 .contents4 {
-  gap: 24px;
-  font-size: 7px;
-  color: #333;
+  gap: var(--gap-5xl);
+  font-size: var(--font-size-6xs);
+  color: var(--black-b400-txttitle);
 }
 .body-wrapper1,
 .body3,
@@ -1070,7 +1070,7 @@
 .body3 {
   flex: 1;
   flex-direction: column;
-  gap: 24px;
+  gap: var(--gap-5xl);
   z-index: 1;
 }
 .body-wrapper1,
@@ -1079,18 +1079,18 @@
 }
 .body-wrapper1 {
   flex-direction: row;
-  padding: 0 16px;
+  padding: 0 var(--padding-base);
   box-sizing: border-box;
-  font-size: 8px;
-  color: #000;
+  font-size: var(--font-size-5xs);
+  color: var(--color-black);
 }
 .header-parent1 {
   flex-direction: column;
-  gap: 16px;
+  gap: var(--gap-base);
   text-align: left;
-  font-size: 12px;
-  color: #fff;
-  font-family: "TT Interphases";
+  font-size: var(--font-size-xs);
+  color: var(--black-b0-bgwhite);
+  font-family: var(--font-tt-interphases);
 }
 .pt-bank-mandiri6 {
   width: 343.3px;
@@ -1115,7 +1115,8 @@
   flex: 1;
   flex-direction: column;
   align-items: flex-start;
-  padding: 10px 10px 12px 16px;
+  padding: var(--padding-3xs) var(--padding-3xs) var(--padding-xs)
+    var(--padding-base);
   box-sizing: border-box;
   min-width: 302px;
 }
@@ -1140,9 +1141,9 @@
   flex-direction: row;
   flex-wrap: wrap;
   align-items: center;
-  padding: 0 16px 0 0;
+  padding: 0 var(--padding-base) 0 0;
   box-sizing: border-box;
-  gap: 45px;
+  gap: var(--gap-26xl);
 }
 .designer-accessories,
 .footer6 {
@@ -1151,17 +1152,17 @@
 }
 .footer6 {
   align-self: stretch;
-  border-top: 1px solid #ededed;
+  border-top: 1px solid var(--black-b50-bgdisabled);
   box-sizing: border-box;
   z-index: 1;
   text-align: left;
-  font-size: 8px;
-  color: #ada6ae;
-  font-family: "TT Interphases";
+  font-size: var(--font-size-5xs);
+  color: var(--black-character-low-emphasis);
+  font-family: var(--font-tt-interphases);
 }
 .designer-accessories {
   width: 595px;
-  background-color: #fff;
+  background-color: var(--black-b0-bgwhite);
   position: relative;
   gap: 59px;
   line-height: normal;
@@ -1178,7 +1179,7 @@
     flex-wrap: wrap;
   }
   .content23 {
-    gap: 22px;
+    gap: var(--gap-3xl);
   }
   .designer-accessories {
     gap: 29px;
