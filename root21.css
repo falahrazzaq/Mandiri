@@ -1,0 +1,922 @@
+.batik-min-1-icon5 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.wrapper94 {
+  height: 81px;
+  width: 595px;
+  position: relative;
+  background-color: #007dfe;
+  display: none;
+  max-width: 100%;
+  z-index: 0;
+}
+.masking-background-icon5 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.consolidated-e-statement5,
+.e-statement-gabungan5 {
+  align-self: stretch;
+  position: relative;
+  line-height: 24px;
+  z-index: 2;
+}
+.e-statement-gabungan5 {
+  text-decoration: none;
+  font-weight: 700;
+  color: inherit;
+}
+.consolidated-e-statement5 {
+  margin: 0;
+  height: 19.1px;
+  font-size: 10px;
+  display: flex;
+  font-style: italic;
+  font-weight: 400;
+  font-family: inherit;
+  align-items: center;
+  flex-shrink: 0;
+}
+.e-statement,
+.sub-header {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.e-statement {
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.sub-header {
+  width: 214.5px;
+  justify-content: flex-end;
+  padding: 0 0 1px;
+  box-sizing: border-box;
+}
+.logo-variant-icon5 {
+  height: 29px;
+  width: 102px;
+  position: relative;
+  z-index: 2;
+}
+.logo {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.plaza-mandiri-jl5 {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+  z-index: 2;
+}
+.logo-address {
+  width: 222px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+  font-size: 8px;
+}
+.header5 {
+  align-self: stretch;
+  background-color: #007dfe;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 15px 16px 14px;
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+  gap: 20px;
+  z-index: 1;
+}
+.name10 {
+  color: #686868;
+}
+.namaname5,
+.name-separator1 {
+  position: relative;
+  display: inline-block;
+}
+.namaname5 {
+  width: 90px;
+  flex-shrink: 0;
+}
+.name-separator1 {
+  min-width: 3px;
+}
+.cust-name-period,
+.cust-name-period-value {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.cust-name-period-value {
+  flex: 1;
+  align-items: center;
+  gap: 8px;
+}
+.cust-name-period {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 4px;
+}
+.kcp-tangerang-summarecon5 {
+  position: relative;
+  color: #333;
+}
+.cust-branch-date,
+.cust-branch-date-value,
+.cust-info-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.cust-branch-date,
+.cust-info-header {
+  align-items: flex-start;
+  gap: 4px;
+}
+.cust-info-header {
+  width: 262px;
+  flex-direction: column;
+  gap: 6px;
+}
+.jan-2023-5 {
+  flex: 1;
+  position: relative;
+  color: #333;
+}
+.tgl-downloaddownloaded-on-container5 {
+  position: relative;
+  display: inline-block;
+  min-width: 112px;
+}
+.cust-info-header1,
+.cust-info-table {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cust-info-header1 {
+  flex-direction: column;
+  gap: 6px;
+  min-width: 146px;
+}
+.cust-info-table {
+  flex-direction: row;
+  gap: 20px;
+  max-width: 100%;
+}
+.dari-155 {
+  text-decoration: none;
+  align-self: stretch;
+  position: relative;
+  font-weight: 700;
+  color: inherit;
+}
+.of-155 {
+  position: relative;
+  display: inline-block;
+  min-width: 23px;
+}
+.page-header-number {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 0 0 0 17px;
+  color: #686868;
+}
+.customer-info1,
+.name11 {
+  display: flex;
+  justify-content: flex-start;
+}
+.name11 {
+  width: 40px;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 6px;
+  text-align: right;
+  color: #333;
+}
+.customer-info1 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 16px;
+  max-width: 100%;
+}
+.schroder-usd-bond {
+  white-space: pre-wrap;
+}
+.sahamstock-schroder-usd-container {
+  position: relative;
+}
+.stock-fund-name-header,
+.stock-fund-table-header-row {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.stock-fund-name-header {
+  flex: 1;
+  overflow: hidden;
+  padding: 4px 8px;
+  box-sizing: border-box;
+}
+.stock-fund-table-header-row {
+  align-self: stretch;
+  background-color: #40a9ff;
+  color: #fff;
+}
+.jumlah-unit {
+  margin: 0;
+}
+.total-unit {
+  margin: 0;
+  color: #494949;
+}
+.jumlah-unit-total-container {
+  flex: 1;
+  position: relative;
+}
+.stock-fund-average-n-a-v,
+.stock-fund-total-unit {
+  width: 70px;
+  background-color: #cae5fc;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8px 8px 35px;
+  box-sizing: border-box;
+}
+.stock-fund-average-n-a-v {
+  justify-content: center;
+}
+.nilai-investasi-valuta-container {
+  flex: 1;
+  position: relative;
+  line-height: 8px;
+  display: inline-block;
+  min-height: 36px;
+}
+.stock-fund-investment-value {
+  width: 80px;
+  background-color: #cae5fc;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8px 8px 17px;
+  box-sizing: border-box;
+}
+.nilai-pasar-valuta-container {
+  flex: 1;
+  position: relative;
+  line-height: 8px;
+  display: inline-block;
+  min-height: 45px;
+}
+.stock-fund-market-value {
+  width: 60px;
+  background-color: #cae5fc;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8px;
+  box-sizing: border-box;
+}
+.potensi-untungrugi-potential-container {
+  height: 45px;
+  flex: 1;
+  position: relative;
+  line-height: 8px;
+  display: flex;
+  align-items: center;
+  min-height: 45px;
+}
+.stock-fund-gain-loss {
+  width: 55px;
+  flex-shrink: 0;
+  padding: 8px;
+}
+.stock-fund-exchange-rate,
+.stock-fund-gain-loss,
+.stock-fund-market-value-i-d-r {
+  background-color: #cae5fc;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.stock-fund-exchange-rate {
+  width: 51px;
+  flex-shrink: 0;
+  padding: 8px 8px 26px;
+  text-align: left;
+}
+.stock-fund-market-value-i-d-r {
+  flex: 1;
+  padding: 8px 8px 35px;
+  min-width: 60px;
+}
+.stock-fund-unit-header {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 2px;
+  text-align: right;
+}
+.investment-account {
+  color: #494949;
+}
+.akun-investasiinvestment-acco-container {
+  width: 191px;
+  position: relative;
+  display: inline-block;
+}
+.stock-fund-account {
+  align-self: stretch;
+  background-color: #e3f1fc;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.stock-fund-currency-i-d-r,
+.stock-fund-currency-u-s-d,
+.stock-fund-currency-u-s-d-unit,
+.stock-fund-currency-unit {
+  width: 70px;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 8px;
+  box-sizing: border-box;
+}
+.stock-fund-currency-i-d-r,
+.stock-fund-currency-u-s-d,
+.stock-fund-currency-u-s-d-unit {
+  justify-content: flex-end;
+}
+.stock-fund-currency-i-d-r,
+.stock-fund-currency-u-s-d-unit {
+  width: 80px;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.stock-fund-currency-u-s-d-unit {
+  width: 60px;
+}
+.p {
+  margin: 0;
+  color: #00ba4a;
+}
+.usd-1000-667-container {
+  height: 24px;
+  flex: 1;
+  position: relative;
+  line-height: 8px;
+  display: flex;
+  align-items: center;
+  min-height: 24px;
+}
+.stock-fund-currency-i-d-r-unit {
+  width: 55px;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 8px;
+  box-sizing: border-box;
+}
+.usd-1-container {
+  height: 24px;
+  position: relative;
+  line-height: 8px;
+  display: flex;
+  align-items: center;
+  min-height: 24px;
+}
+.stock-fund-currency-combined {
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 8px;
+  text-align: left;
+}
+.stock-fund-empty {
+  height: 24px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.stock-fund-empty-row {
+  flex: 1;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 8px;
+  box-sizing: border-box;
+  min-width: 60px;
+}
+.stock-fund-currency,
+.stock-fund-transaction-date,
+.stock-fund-transaction-type {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.stock-fund-currency {
+  align-self: stretch;
+  flex-wrap: wrap;
+  gap: 2px;
+  text-align: right;
+}
+.stock-fund-transaction-date,
+.stock-fund-transaction-type {
+  text-align: left;
+}
+.stock-fund-transaction-date {
+  width: 100px;
+  background-color: #cae5fc;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: 8px;
+  box-sizing: border-box;
+}
+.stock-fund-transaction-type {
+  width: 140px;
+}
+.stock-fund-transaction-average,
+.stock-fund-transaction-total-u,
+.stock-fund-transaction-type {
+  background-color: #cae5fc;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: 8px;
+  box-sizing: border-box;
+}
+.stock-fund-transaction-total-u {
+  width: 93px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.stock-fund-transaction-average {
+  width: 120px;
+}
+.stock-fund-transaction-amount,
+.stock-fund-transaction-average,
+.stock-fund-transaction-header {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.stock-fund-transaction-amount {
+  flex: 1;
+  background-color: #cae5fc;
+  overflow: hidden;
+  padding: 8px;
+  box-sizing: border-box;
+  min-width: 66px;
+}
+.stock-fund-transaction-header {
+  align-self: stretch;
+  flex-wrap: wrap;
+  gap: 2px;
+}
+.stock-fund-transaction-date-in {
+  width: 100px;
+  justify-content: flex-start;
+  text-align: left;
+}
+.stock-fund-transaction-date-in,
+.stock-fund-transaction-nav-inp,
+.stock-fund-transaction-type-in,
+.stock-fund-transaction-unit-in,
+.total-unit-container {
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 8px;
+  box-sizing: border-box;
+}
+.stock-fund-transaction-type-in {
+  width: 140px;
+  justify-content: flex-start;
+  text-align: left;
+}
+.stock-fund-transaction-nav-inp,
+.stock-fund-transaction-unit-in,
+.total-unit-container {
+  width: 93px;
+  justify-content: flex-end;
+}
+.stock-fund-transaction-nav-inp,
+.total-unit-container {
+  width: 120px;
+}
+.total-unit-container {
+  width: 93px;
+  justify-content: flex-start;
+}
+.average-n-a {
+  text-decoration: none;
+  height: 24px;
+  flex: 1;
+  position: relative;
+  color: inherit;
+  display: flex;
+  align-items: center;
+}
+.amount-container,
+.average-n-a-v-container {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 8px;
+  box-sizing: border-box;
+}
+.average-n-a-v-container {
+  width: 120px;
+  flex-shrink: 0;
+  justify-content: flex-start;
+}
+.amount-container {
+  flex: 1;
+  justify-content: flex-end;
+  min-width: 66px;
+}
+.content16,
+.table8 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.table8 {
+  border-bottom: 1px solid #ededed;
+  text-align: right;
+}
+.content16 {
+  gap: 4px;
+  max-width: 100%;
+}
+.pasar-uangmoney-market-container {
+  width: 216px;
+  position: relative;
+  display: inline-block;
+}
+.jumlah-unit-total-container3 {
+  width: 100%;
+}
+.jumlah-unit-total-container2 {
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.jumlah-unit-total-unit-wrapper,
+.nab-rata-rata-average-nav-wrapper,
+.nabunit-pasar-navunit-market-wrapper {
+  width: 50px;
+  background-color: #cae5fc;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8px 6px 17px;
+  box-sizing: border-box;
+}
+.nab-rata-rata-average-nav-wrapper,
+.nabunit-pasar-navunit-market-wrapper {
+  justify-content: center;
+  padding: 8px;
+}
+.nabunit-pasar-navunit-market-wrapper {
+  width: 60px;
+}
+.nilai-investasi-valuta-asal-wrapper {
+  flex: 1;
+  padding: 8px;
+  min-width: 52px;
+}
+.kurs-exchange-rate-frame,
+.nilai-investasi-valuta-asal-wrapper,
+.potensi-untungrugi-potential-wrapper {
+  background-color: #cae5fc;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.potensi-untungrugi-potential-wrapper {
+  flex: 1;
+  padding: 8px 8px 26px;
+  min-width: 58px;
+}
+.kurs-exchange-rate-frame {
+  width: 50px;
+  flex-shrink: 0;
+  padding: 8px 8px 17px;
+  text-align: left;
+}
+.akun-investasiinvestment-acco-container1 {
+  width: 190px;
+  position: relative;
+  display: inline-block;
+}
+.wrapper96,
+.wrapper97 {
+  width: 50px;
+  flex-shrink: 0;
+}
+.wrapper96 {
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 8px;
+  box-sizing: border-box;
+}
+.wrapper97 {
+  justify-content: flex-end;
+}
+.idr-75000000-wrapper,
+.wrapper97,
+.wrapper98 {
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 8px;
+  box-sizing: border-box;
+}
+.wrapper98 {
+  width: 60px;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+.idr-75000000-wrapper {
+  flex: 1;
+  justify-content: flex-start;
+  min-width: 52px;
+  white-space: nowrap;
+}
+.idr-10000000-1333-wrapper {
+  flex: 1;
+  justify-content: flex-start;
+  min-width: 58px;
+}
+.idr-10000000-1333-wrapper,
+.wrapper100,
+.wrapper99 {
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 8px;
+  box-sizing: border-box;
+}
+.wrapper99 {
+  width: 50px;
+  flex-shrink: 0;
+  justify-content: flex-start;
+  text-align: left;
+}
+.wrapper100 {
+  flex: 1;
+  justify-content: flex-end;
+  min-width: 58px;
+}
+.pendapatan-tetapfixed-income-container {
+  width: 209px;
+  position: relative;
+  display: inline-block;
+}
+.content-table-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+  max-width: 100%;
+}
+.content-table-header,
+.contents2,
+.contents3 {
+  align-self: stretch;
+  flex-direction: column;
+}
+.contents3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.contents2 {
+  font-size: 7px;
+  color: #333;
+}
+.body-frame,
+.body2,
+.contents2,
+.header-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.body2 {
+  flex: 1;
+  flex-direction: column;
+  gap: 24px;
+  z-index: 1;
+}
+.body-frame,
+.header-container {
+  align-self: stretch;
+}
+.body-frame {
+  flex-direction: row;
+  padding: 0 16px;
+  box-sizing: border-box;
+  font-size: 8px;
+  color: #000;
+}
+.header-container {
+  flex-direction: column;
+  gap: 16px;
+  text-align: left;
+  font-size: 12px;
+  color: #fff;
+  font-family: "TT Interphases";
+}
+.pt-bank-mandiri5 {
+  width: 343.3px;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.bank-info,
+.bank-info-container {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.bank-info {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+}
+.bank-info-container {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 10px 10px 12px 16px;
+  box-sizing: border-box;
+  min-width: 302px;
+}
+.mandiri-call-140005 {
+  width: 69px;
+  position: relative;
+  line-height: 140%;
+  text-align: right;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 69px;
+}
+.content19,
+.footer5,
+.root5 {
+  max-width: 100%;
+  display: flex;
+  justify-content: flex-start;
+}
+.content19 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 0 16px 0 0;
+  box-sizing: border-box;
+  gap: 45px;
+}
+.footer5,
+.root5 {
+  flex-direction: column;
+  align-items: flex-start;
+}
+.footer5 {
+  align-self: stretch;
+  border-top: 1px solid #ededed;
+  box-sizing: border-box;
+  z-index: 1;
+  text-align: left;
+  font-size: 8px;
+  color: #ada6ae;
+  font-family: "TT Interphases";
+}
+.root5 {
+  width: 595px;
+  background-color: #fff;
+  position: relative;
+  gap: 38px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 500px) {
+  .header5 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .cust-info-table {
+    flex-wrap: wrap;
+  }
+  .content19 {
+    gap: 22px;
+  }
+  .root5 {
+    gap: 19px;
+  }
+}

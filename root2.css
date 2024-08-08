@@ -1,0 +1,754 @@
+.batik-min-1-icon3 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.wrapper15 {
+  height: 81px;
+  width: 595px;
+  position: relative;
+  background-color: #007dfe;
+  display: none;
+  max-width: 100%;
+  z-index: 0;
+}
+.masking-background-icon3 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.consolidated-e-statement3,
+.e-statement-gabungan3 {
+  align-self: stretch;
+  position: relative;
+  line-height: 24px;
+  z-index: 2;
+}
+.e-statement-gabungan3 {
+  text-decoration: none;
+  font-weight: 700;
+  color: inherit;
+}
+.consolidated-e-statement3 {
+  margin: 0;
+  height: 19.1px;
+  font-size: 10px;
+  display: flex;
+  font-style: italic;
+  font-weight: 400;
+  font-family: inherit;
+  align-items: center;
+  flex-shrink: 0;
+}
+.greeting-container,
+.header-content1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.greeting-container {
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.header-content1 {
+  width: 214.5px;
+  justify-content: flex-end;
+  padding: 0 0 1px;
+  box-sizing: border-box;
+}
+.logo-variant-icon3 {
+  height: 29px;
+  width: 102px;
+  position: relative;
+  z-index: 2;
+}
+.logo-container3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.plaza-mandiri-jl3 {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+  z-index: 2;
+}
+.logo-container-parent1 {
+  width: 222px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+  font-size: 8px;
+}
+.header3 {
+  align-self: stretch;
+  background-color: #007dfe;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 15px 16px 14px;
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+  gap: 20px;
+  z-index: 1;
+}
+.name6 {
+  color: #686868;
+}
+.div75,
+.namaname3 {
+  position: relative;
+  display: inline-block;
+}
+.namaname3 {
+  width: 90px;
+  flex-shrink: 0;
+}
+.div75 {
+  min-width: 3px;
+}
+.namaname-container,
+.period-values-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.period-values-container {
+  flex: 1;
+  align-items: center;
+  gap: 8px;
+}
+.namaname-container {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 4px;
+}
+.kcp-tangerang-summarecon3 {
+  position: relative;
+  color: #333;
+}
+.cabangbranch-container,
+.frame-parent23,
+.parent15 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.cabangbranch-container,
+.frame-parent23 {
+  align-items: flex-start;
+  gap: 4px;
+}
+.frame-parent23 {
+  width: 262px;
+  flex-direction: column;
+  gap: 6px;
+}
+.jan-2023-3 {
+  flex: 1;
+  position: relative;
+  color: #333;
+}
+.tgl-downloaddownloaded-on-container3 {
+  position: relative;
+  display: inline-block;
+  min-width: 112px;
+}
+.frame-parent24,
+.period-info {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent24 {
+  flex-direction: column;
+  gap: 6px;
+  min-width: 146px;
+}
+.period-info {
+  flex-direction: row;
+  gap: 20px;
+  max-width: 100%;
+}
+.dari-153,
+.of-153 {
+  text-decoration: none;
+  position: relative;
+  color: inherit;
+}
+.dari-153 {
+  align-self: stretch;
+  font-weight: 700;
+}
+.of-153 {
+  display: inline-block;
+  font-style: italic;
+  min-width: 23px;
+}
+.page-count-suffix {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 0 0 0 17px;
+  color: #686868;
+}
+.customer-info,
+.name7 {
+  display: flex;
+  justify-content: flex-start;
+}
+.name7 {
+  width: 40px;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 6px;
+  text-align: right;
+  color: #333;
+}
+.customer-info {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 16px;
+  max-width: 100%;
+}
+.detail-transaksitransaction-d-container1 {
+  width: 100%;
+}
+.detail-transaksitransaction-d-container {
+  margin: 0;
+  width: 423px;
+  position: relative;
+  font-size: inherit;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+  font-family: inherit;
+}
+.label1,
+.transaction-details-label {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.label1 {
+  background: linear-gradient(
+    90deg,
+    rgba(0, 125, 254, 0.8),
+    rgba(0, 99, 201, 0.4) 69.6%,
+    rgba(0, 96, 194, 0.4) 84.35%
+  );
+  overflow: hidden;
+  justify-content: center;
+  padding: 3.5px 8px;
+  font-size: 10px;
+  color: #fff;
+}
+.danafunds1 {
+  align-self: stretch;
+  position: relative;
+}
+.span {
+  white-space: pre-wrap;
+}
+.produkproduct-mandiri-tabung-container {
+  position: relative;
+}
+.account-info,
+.product-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.product-container {
+  flex: 1;
+  overflow: hidden;
+  padding: 4px 8px;
+  box-sizing: border-box;
+}
+.account-info {
+  align-self: stretch;
+  background-color: #3fa7fc;
+  text-align: left;
+  color: #fff;
+}
+.span1 {
+  color: #000;
+}
+.nomor-rekening {
+  margin: 0;
+}
+.account-number {
+  margin: 0;
+  color: #494949;
+}
+.nomor-rekening-account-container {
+  flex: 1;
+  position: relative;
+}
+.balance-label,
+.balance-labels {
+  background-color: #cae5fc;
+  overflow: hidden;
+  justify-content: flex-start;
+  padding: 8px;
+  box-sizing: border-box;
+}
+.balance-labels {
+  width: 90px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  text-align: left;
+}
+.balance-label {
+  flex: 1;
+  min-width: 75px;
+}
+.balance-label,
+.balance-row1,
+.ending-balance-label {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.ending-balance-label {
+  flex: 1;
+  background-color: #cae5fc;
+  overflow: hidden;
+  justify-content: center;
+  padding: 8px;
+  box-sizing: border-box;
+  min-width: 75px;
+}
+.balance-row1 {
+  align-self: stretch;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  padding: 0;
+  gap: 2px;
+}
+.b9 {
+  height: 24px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.wrapper16 {
+  width: 90px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  padding: 0 8px;
+  box-sizing: border-box;
+  text-align: left;
+}
+.wrapper16,
+.wrapper17 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.wrapper17,
+.wrapper18,
+.wrapper19,
+.wrapper20 {
+  flex: 1;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 0 8px;
+  box-sizing: border-box;
+  min-width: 75px;
+}
+.wrapper18 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: #00ba4a;
+}
+.wrapper19,
+.wrapper20 {
+  justify-content: flex-end;
+}
+.wrapper19 {
+  display: flex;
+  align-items: flex-start;
+}
+.wrapper20 {
+  color: #0058b2;
+}
+.table3,
+.transaction-values,
+.wrapper20 {
+  display: flex;
+  align-items: flex-start;
+}
+.table3 {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.transaction-values {
+  width: 90px;
+  flex-direction: row;
+}
+.amount-values,
+.remarks-values,
+.transaction-values {
+  background-color: #cae5fc;
+  overflow: hidden;
+  flex-shrink: 0;
+  justify-content: flex-start;
+  padding: 8px;
+  box-sizing: border-box;
+}
+.remarks-values {
+  width: 170px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.amount-values {
+  width: 98px;
+  text-align: right;
+}
+.amount-values,
+.balance-history,
+.jan-2023-wrapper,
+.transaction-row {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.balance-history {
+  flex: 1;
+  background-color: #cae5fc;
+  overflow: hidden;
+  justify-content: center;
+  padding: 8px;
+  box-sizing: border-box;
+  min-width: 129px;
+  text-align: right;
+}
+.jan-2023-wrapper,
+.transaction-row {
+  justify-content: flex-start;
+}
+.transaction-row {
+  align-self: stretch;
+  flex-wrap: wrap;
+  gap: 2px;
+}
+.jan-2023-wrapper {
+  width: 90px;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: 0 8px;
+  box-sizing: border-box;
+}
+.transfer-ke-bank-container {
+  height: 28px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.transfer-ke-bank-mandiri-livia-wrapper,
+.wrapper21,
+.wrapper22 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 8px;
+  box-sizing: border-box;
+}
+.transfer-ke-bank-mandiri-livia-wrapper {
+  width: 170px;
+  flex-shrink: 0;
+}
+.wrapper21,
+.wrapper22 {
+  text-align: right;
+}
+.wrapper21 {
+  width: 98px;
+  flex-shrink: 0;
+  color: #00ba4a;
+}
+.wrapper22 {
+  flex: 1;
+  min-width: 129px;
+  color: #0058b2;
+}
+.transfer-ke-bank-container1 {
+  flex: 1;
+  position: relative;
+  line-height: 8px;
+  display: inline-block;
+  min-height: 28px;
+}
+.transfer-ke-bank-mandiri-saqil-wrapper,
+.wrapper23 {
+  width: 170px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 8px;
+  box-sizing: border-box;
+}
+.wrapper23 {
+  width: 98px;
+  justify-content: flex-end;
+  text-align: right;
+}
+.transaction-row11,
+.transaction-row12 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 2px;
+}
+.transaction-row11 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 1;
+}
+.transaction-row12 {
+  z-index: 2;
+}
+.transaction-row12,
+.transaction-row13,
+.transaction-row14 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.transaction-row13 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 2px;
+  z-index: 3;
+}
+.transaction-row14 {
+  z-index: 4;
+}
+.transaction-row14,
+.transaction-row15,
+.transaction-row16 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 2px;
+}
+.transaction-row15 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 5;
+}
+.transaction-row16 {
+  z-index: 6;
+}
+.content12,
+.table4,
+.transaction-row16 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.table4 {
+  align-self: stretch;
+  flex-direction: column;
+  text-align: left;
+}
+.content12 {
+  gap: 4px;
+  max-width: 100%;
+}
+.balance-table,
+.content12,
+.contents {
+  align-self: stretch;
+  flex-direction: column;
+}
+.balance-table {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+  text-align: right;
+  font-size: 7px;
+}
+.contents {
+  gap: 8px;
+  font-size: 9px;
+  color: #333;
+}
+.body,
+.body-container,
+.contents,
+.structure {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.body {
+  flex: 1;
+  flex-direction: column;
+  gap: 24px;
+  z-index: 1;
+}
+.body-container,
+.structure {
+  align-self: stretch;
+}
+.body-container {
+  flex-direction: row;
+  padding: 0 16px;
+  box-sizing: border-box;
+  font-size: 8px;
+  color: #000;
+}
+.structure {
+  flex-direction: column;
+  gap: 16px;
+  text-align: left;
+  font-size: 12px;
+  color: #fff;
+  font-family: "TT Interphases";
+}
+.pt-bank-mandiri3 {
+  width: 343.3px;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.disclaimer1,
+.pt-bank-mandiri-persero-tbk-wrapper1 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.pt-bank-mandiri-persero-tbk-wrapper1 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+}
+.disclaimer1 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 10px 10px 12px 16px;
+  box-sizing: border-box;
+  min-width: 302px;
+}
+.mandiri-call-140003 {
+  width: 69px;
+  position: relative;
+  line-height: 140%;
+  text-align: right;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 69px;
+}
+.content13,
+.footer3,
+.root3 {
+  max-width: 100%;
+  display: flex;
+  justify-content: flex-start;
+}
+.content13 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 0 16px 0 0;
+  box-sizing: border-box;
+  gap: 45px;
+}
+.footer3,
+.root3 {
+  flex-direction: column;
+  align-items: flex-start;
+}
+.footer3 {
+  align-self: stretch;
+  border-top: 1px solid #ededed;
+  box-sizing: border-box;
+  z-index: 1;
+  text-align: left;
+  font-size: 8px;
+  color: #ada6ae;
+  font-family: "TT Interphases";
+}
+.root3 {
+  width: 595px;
+  background-color: #fff;
+  position: relative;
+  gap: 27px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 500px) {
+  .header3 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .period-info {
+    flex-wrap: wrap;
+  }
+  .content13 {
+    gap: 22px;
+  }
+}

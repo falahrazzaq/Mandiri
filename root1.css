@@ -1,0 +1,1026 @@
+.batik-min-1-icon1 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.wrapper3 {
+  height: 81px;
+  width: 595px;
+  position: relative;
+  background-color: #007dfe;
+  display: none;
+  max-width: 100%;
+  z-index: 0;
+}
+.masking-background-icon1 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.consolidated-e-statement1,
+.e-statement-gabungan1 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 24px;
+  font-weight: 700;
+  font-family: inherit;
+  z-index: 2;
+}
+.consolidated-e-statement1 {
+  height: 19.1px;
+  font-size: 10px;
+  display: flex;
+  font-style: italic;
+  font-weight: 400;
+  align-items: center;
+  flex-shrink: 0;
+}
+.e-statement-gabungan-group,
+.header-child {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.e-statement-gabungan-group {
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.header-child {
+  width: 214.5px;
+  justify-content: flex-end;
+  padding: 0 0 1px;
+  box-sizing: border-box;
+}
+.logo-variant-icon1 {
+  height: 29px;
+  width: 102px;
+  position: relative;
+  z-index: 2;
+}
+.logo-container1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.plaza-mandiri-jl1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+  z-index: 2;
+}
+.logo-container-group {
+  width: 222px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+  font-size: 8px;
+}
+.header1 {
+  align-self: stretch;
+  background-color: #007dfe;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 15px 16px 14px;
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+  gap: 20px;
+  z-index: 1;
+  text-align: left;
+  font-size: 12px;
+  color: #fff;
+  font-family: "TT Interphases";
+}
+.div31,
+.namaname1 {
+  position: relative;
+  display: inline-block;
+}
+.namaname1 {
+  width: 90px;
+  flex-shrink: 0;
+}
+.div31 {
+  min-width: 3px;
+}
+.namaname-group,
+.parent2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.parent2 {
+  flex: 1;
+  align-items: center;
+  gap: 8px;
+}
+.namaname-group {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 4px;
+}
+.kcp-tangerang-summarecon1 {
+  position: relative;
+  color: #333;
+}
+.cabangbranch-group,
+.frame-parent5,
+.parent3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.cabangbranch-group,
+.frame-parent5 {
+  align-items: flex-start;
+  gap: 4px;
+}
+.frame-parent5 {
+  width: 262px;
+  flex-direction: column;
+  gap: 6px;
+}
+.jan-2023-1 {
+  flex: 1;
+  position: relative;
+  color: #333;
+}
+.tgl-downloaddownloaded-on-container1 {
+  position: relative;
+  display: inline-block;
+  min-width: 112px;
+}
+.customer,
+.frame-parent6 {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent6 {
+  flex-direction: column;
+  gap: 6px;
+  min-width: 146px;
+}
+.customer {
+  flex-direction: row;
+  gap: 20px;
+  max-width: 100%;
+}
+.dari-151,
+.of-151 {
+  text-decoration: none;
+  position: relative;
+  color: inherit;
+}
+.dari-151 {
+  align-self: stretch;
+  font-weight: 700;
+}
+.of-151 {
+  display: inline-block;
+  font-style: italic;
+  min-width: 23px;
+}
+.of-15-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 0 0 0 17px;
+  color: #686868;
+}
+.customer-parent,
+.name3 {
+  display: flex;
+  justify-content: flex-start;
+}
+.name3 {
+  width: 40px;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 6px;
+  text-align: right;
+  color: #333;
+}
+.customer-parent {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 16px;
+  max-width: 100%;
+  z-index: 1;
+}
+.overview-keuanganfinancial-ov-container {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  display: inline-block;
+  max-width: 100%;
+  font-family: inherit;
+}
+.label {
+  align-self: stretch;
+  background: linear-gradient(
+    90deg,
+    rgba(0, 125, 254, 0.8),
+    rgba(0, 99, 201, 0.4) 69.6%,
+    rgba(0, 96, 194, 0.4) 84.35%
+  );
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3.5px 8px;
+  box-sizing: border-box;
+  max-width: 100%;
+  z-index: 1;
+  font-size: 10px;
+  color: #fff;
+}
+.funds {
+  color: #686868;
+}
+.danafunds-txt {
+  line-break: anywhere;
+  width: 100%;
+}
+.danafunds {
+  width: 123px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.title {
+  align-self: stretch;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.jenis-produk {
+  margin: 0;
+}
+.jenis-produk-product-container,
+.product-icons {
+  position: relative;
+}
+.product-icons {
+  height: 8.5px;
+  width: 8.5px;
+  border-radius: 50%;
+  background-color: #00ba4a;
+}
+.tabungan {
+  flex: 1;
+  position: relative;
+}
+.products2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.products-child,
+.products-item {
+  height: 8.5px;
+  width: 8.5px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #007dfe;
+}
+.products-item {
+  background-color: #ffb700;
+}
+.product-details {
+  flex: 1;
+  flex-direction: column;
+  gap: 15px;
+}
+.product,
+.product-details,
+.product-type {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.product {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 8px;
+}
+.product-type {
+  flex: 1;
+  flex-direction: column;
+  gap: 7.5px;
+  min-width: 97px;
+  text-align: left;
+}
+.ending-balance-idr {
+  margin: 0;
+  color: #494949;
+}
+.saldo-akhir-idr-ending-balan-wrapper {
+  align-self: stretch;
+  background-color: #cae6fc;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8px;
+}
+.div35 {
+  width: 54px;
+  position: relative;
+  display: inline-block;
+  min-width: 54px;
+}
+.parent6 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 15px;
+}
+.frame-parent7,
+.frame-wrapper2 {
+  display: flex;
+  align-items: flex-start;
+}
+.frame-parent7 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 7.5px;
+  min-width: 95px;
+}
+.frame-wrapper2 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 8px 0 12px;
+}
+.frame-parent8 {
+  width: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 7.5px;
+}
+.balance,
+.finance-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.balance {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 2px;
+  text-align: right;
+  font-size: 7px;
+}
+.finance-header {
+  flex: 1;
+  flex-direction: column;
+  gap: 8px;
+  min-width: 260px;
+  max-width: 100%;
+}
+.div41 {
+  width: 22.2px;
+  position: relative;
+  display: inline-block;
+  min-width: 22.2px;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.parent8 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.div43 {
+  width: 23px;
+  position: relative;
+  display: inline-block;
+  min-width: 23px;
+}
+.frame-child15,
+.frame-child16,
+.frame-child17 {
+  position: absolute;
+  top: 4.5px;
+  left: 0;
+  border-radius: 50%;
+  background-color: #007dfe;
+  border: 0 solid #fff;
+  box-sizing: border-box;
+  width: 100px;
+  height: 100px;
+}
+.frame-child16,
+.frame-child17 {
+  background-color: #ffb700;
+  z-index: 1;
+}
+.frame-child17 {
+  background-color: #00ba4a;
+  z-index: 2;
+}
+.vector-296-stroke12 {
+  top: 0;
+  left: 31px;
+}
+.vector-296-stroke12,
+.vector-296-stroke13,
+.vector-296-stroke14 {
+  position: absolute;
+  width: 10px;
+  height: 30px;
+  z-index: 3;
+}
+.vector-296-stroke13 {
+  top: 0;
+  left: 59px;
+  object-fit: contain;
+}
+.vector-296-stroke14 {
+  top: 82.5px;
+  left: 41px;
+}
+.ellipse-parent6 {
+  height: 112.5px;
+  width: 100px;
+  position: absolute;
+  margin: 0 !important;
+  top: -107.5px;
+  right: -61px;
+}
+.frame-parent9,
+.frame-wrapper3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper3 {
+  flex-direction: row;
+  padding: 0 10px;
+}
+.frame-parent9 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 102.5px;
+}
+.content-inner,
+.content3 {
+  display: flex;
+  box-sizing: border-box;
+}
+.content-inner {
+  width: 87.2px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 7px;
+  text-align: right;
+  font-size: 7px;
+}
+.content3 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 6px 7.5px 0;
+  gap: 69px;
+  max-width: 100%;
+  z-index: 1;
+}
+.reksa-danamutual-fund-container1 {
+  width: 100%;
+}
+.reksa-danamutual-fund-container {
+  width: 182px;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.fund-icon-list,
+.fund-icon-list1 {
+  width: 8.5px;
+  height: 8.5px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #00ba4a;
+}
+.fund-icon-list1 {
+  background-color: #007dfe;
+}
+.fund-icon-list2,
+.fund-icon-list3,
+.fund-icon-list4,
+.fund-icon-list5 {
+  width: 8.5px;
+  height: 8.5px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #ffb700;
+}
+.fund-icon-list3,
+.fund-icon-list4,
+.fund-icon-list5 {
+  background-color: #ed1c24;
+}
+.fund-icon-list4,
+.fund-icon-list5 {
+  background-color: #7697ce;
+}
+.fund-icon-list5 {
+  background-color: #41396d;
+}
+.fund-icons {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15.5px;
+}
+.reksa-dana-saham {
+  position: relative;
+  display: inline-block;
+  min-width: 59px;
+}
+.reksa-dana-pendapatan {
+  align-self: stretch;
+  position: relative;
+}
+.reksa-dana-indeks,
+.reksa-dana-pasar {
+  position: relative;
+  display: inline-block;
+}
+.reksa-dana-pasar {
+  min-width: 80px;
+}
+.reksa-dana-indeks {
+  width: 80px;
+}
+.fund-details,
+.fund-title,
+.fund-total {
+  display: flex;
+  justify-content: flex-start;
+}
+.fund-details {
+  flex: 1;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 4px;
+}
+.fund-title,
+.fund-total {
+  align-items: flex-start;
+}
+.fund-title {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 6px;
+}
+.fund-total {
+  width: 96px;
+  flex-direction: row;
+  padding: 0 8px;
+  box-sizing: border-box;
+}
+.frame-parent10,
+.fund-type {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.fund-type {
+  display: flex;
+  justify-content: flex-start;
+  gap: 15px;
+  min-width: 97px;
+  text-align: left;
+}
+.frame-parent10 {
+  gap: 6px;
+  min-width: 95px;
+}
+.frame-parent10,
+.frame-parent11,
+.wrapper4 {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-parent11 {
+  width: 138px;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 0 38px 0 0;
+  box-sizing: border-box;
+  gap: 6px;
+}
+.wrapper4 {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 19px;
+}
+.funds-chart-legend {
+  position: relative;
+  display: inline-block;
+  min-width: 19px;
+  z-index: 6;
+}
+.frame-parent15,
+.frame-wrapper6 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent15 {
+  flex-direction: column;
+  gap: 3px;
+}
+.frame-wrapper6 {
+  flex-direction: row;
+  padding: 0 0 0 13px;
+}
+.mutual-funds-chart {
+  width: 23px;
+  position: relative;
+  display: inline-block;
+  min-width: 23px;
+  z-index: 6;
+}
+.frame-parent14 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.mutual-funds-legend {
+  width: 23.9px;
+  position: relative;
+  display: inline-block;
+  min-width: 23.9px;
+  z-index: 6;
+}
+.frame-parent13 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 66px;
+}
+.mutual-funds-legend2 {
+  width: 24.1px;
+  position: relative;
+  display: inline-block;
+  min-width: 24.1px;
+  z-index: 6;
+}
+.mutual-funds-legend-marker-sha {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  border-radius: 50%;
+  background-color: #007dfe;
+  border: 0 solid #fff;
+  box-sizing: border-box;
+  width: 100px;
+  height: 100px;
+}
+.mutual-funds-legend-marker-sha-child,
+.mutual-funds-legend-marker-sha1,
+.mutual-funds-legend-marker-sha2,
+.mutual-funds-legend-marker-sha3 {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  border-radius: 50%;
+  background-color: #ffb700;
+  border: 0 solid #fff;
+  box-sizing: border-box;
+  width: 100px;
+  height: 100px;
+  z-index: 1;
+}
+.mutual-funds-legend-marker-sha-child,
+.mutual-funds-legend-marker-sha2,
+.mutual-funds-legend-marker-sha3 {
+  background-color: #41396d;
+  z-index: 4;
+}
+.mutual-funds-legend-marker-sha-child,
+.mutual-funds-legend-marker-sha3 {
+  background-color: #00ba4a;
+  z-index: 5;
+}
+.mutual-funds-legend-marker-sha-child {
+  top: 0;
+  background-color: #7697ce;
+  width: 100%;
+  height: 100%;
+  z-index: 3;
+}
+.vector-296-stroke15 {
+  position: absolute;
+  top: 8px;
+  left: 11px;
+  width: 10px;
+  height: 16px;
+  z-index: 6;
+}
+.mutual-funds-legend-marker-sha4 {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  width: 100px;
+  height: 100px;
+}
+.vector-296-stroke16 {
+  position: absolute;
+  top: 0;
+  left: 31px;
+  width: 10px;
+  height: 16px;
+  z-index: 6;
+}
+.mutual-funds-legend-marker-sha-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: #ed1c24;
+  border: 0 solid #fff;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+}
+.vector-296-stroke17,
+.vector-296-stroke18 {
+  position: absolute;
+  top: 28px;
+  left: 2px;
+  width: 10px;
+  height: 16px;
+  z-index: 6;
+}
+.vector-296-stroke18 {
+  top: 0;
+  left: 58px;
+  height: 30px;
+  object-fit: contain;
+}
+.vector-296-stroke19,
+.vector-296-stroke20 {
+  position: absolute;
+  top: 78px;
+  width: 10px;
+  height: 30px;
+  z-index: 6;
+}
+.vector-296-stroke19 {
+  left: 58px;
+  object-fit: contain;
+}
+.vector-296-stroke20 {
+  left: 31px;
+}
+.mutual-funds-legend-markers {
+  height: 108px;
+  width: 100px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -103px;
+  left: -70px;
+}
+.mutual-funds-legend-items {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.disclaimer {
+  align-self: stretch;
+  position: relative;
+  display: inline-block;
+  min-width: 23.9px;
+  z-index: 6;
+}
+.mutual-funds-legend1 {
+  width: 24.1px;
+  flex-direction: column;
+  gap: 98px;
+}
+.market,
+.market-inner,
+.mutual-funds-legend1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.market-inner {
+  width: 117.1px;
+  flex-direction: column;
+  padding: 36px 0 0;
+  box-sizing: border-box;
+}
+.market {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 2px;
+  text-align: right;
+  font-size: 7px;
+}
+.content4,
+.finance-container {
+  align-self: stretch;
+  flex-direction: column;
+}
+.content4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 5px 9px 0;
+  gap: 8px;
+  z-index: 1;
+}
+.finance-container {
+  gap: 20px;
+  font-size: 9px;
+  color: #333;
+}
+.finance-container,
+.frame-parent4,
+.info {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent4 {
+  flex: 1;
+  flex-direction: column;
+  gap: 24px;
+}
+.info {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 16px 201px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 8px;
+  color: #000;
+  font-family: "TT Interphases";
+}
+.pt-bank-mandiri1 {
+  width: 343.3px;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.license1,
+.pt-bank-mandiri-persero-tbk-container {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.pt-bank-mandiri-persero-tbk-container {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+}
+.license1 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 10px 10px 12px 16px;
+  box-sizing: border-box;
+  min-width: 302px;
+}
+.mandiri-call-140001 {
+  width: 69px;
+  position: relative;
+  line-height: 140%;
+  text-align: right;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 69px;
+}
+.content5,
+.footer1,
+.root1 {
+  max-width: 100%;
+  display: flex;
+  justify-content: flex-start;
+}
+.content5 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 0 16px 0 0;
+  box-sizing: border-box;
+  gap: 45px;
+}
+.footer1,
+.root1 {
+  flex-direction: column;
+  align-items: flex-start;
+}
+.footer1 {
+  align-self: stretch;
+  border-top: 1px solid #ededed;
+  box-sizing: border-box;
+  z-index: 1;
+  text-align: left;
+  font-size: 8px;
+  color: #ada6ae;
+  font-family: "TT Interphases";
+}
+.root1 {
+  width: 595px;
+  background-color: #fff;
+  position: relative;
+  gap: 16px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 525px) {
+  .header1 {
+    flex-wrap: wrap;
+  }
+  .content3 {
+    gap: 34px;
+  }
+  .frame-parent10,
+  .fund-type {
+    flex: 1;
+  }
+  .market {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .balance,
+  .customer {
+    flex-wrap: wrap;
+  }
+  .content3 {
+    gap: 17px;
+  }
+  .content5 {
+    gap: 22px;
+  }
+}
