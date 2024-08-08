@@ -1,0 +1,764 @@
+.batik-min-1-icon8 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.wrapper152 {
+  height: 81px;
+  width: 595px;
+  position: relative;
+  background-color: var(--blue-b300-primary);
+  display: none;
+  max-width: 100%;
+  z-index: 0;
+}
+.masking-background-icon8 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.consolidated-e-statement8,
+.e-statement-gabungan8 {
+  align-self: stretch;
+  position: relative;
+  line-height: 24px;
+  z-index: 2;
+}
+.e-statement-gabungan8 {
+  text-decoration: none;
+  font-weight: 700;
+  color: inherit;
+}
+.consolidated-e-statement8 {
+  margin: 0;
+  height: 19.1px;
+  font-size: var(--font-size-3xs);
+  display: flex;
+  font-style: italic;
+  font-weight: 400;
+  font-family: inherit;
+  align-items: center;
+  flex-shrink: 0;
+}
+.header-inner3 {
+  width: 214.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+}
+.logo-variant-icon8 {
+  height: 29px;
+  width: 102px;
+  position: relative;
+  z-index: 2;
+}
+.logo-variant-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.plaza-mandiri-jl8 {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+  z-index: 2;
+}
+.frame-parent36 {
+  width: 222px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+  font-size: var(--font-size-5xs);
+}
+.header8 {
+  align-self: stretch;
+  background-color: var(--blue-b300-primary);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: var(--padding-mini) var(--padding-base) var(--padding-sm);
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  z-index: 1;
+}
+.div113,
+.namaname8 {
+  position: relative;
+  display: inline-block;
+}
+.namaname8 {
+  width: 90px;
+  flex-shrink: 0;
+}
+.div113 {
+  min-width: 3px;
+}
+.namaname-parent2,
+.parent26 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.parent26 {
+  flex: 1;
+  align-items: center;
+  gap: var(--gap-5xs);
+}
+.namaname-parent2 {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: var(--gap-9xs);
+}
+.kcp-tangerang-summarecon8 {
+  position: relative;
+  color: var(--black-b400-txttitle);
+}
+.branch-date-row,
+.branch-date-values,
+.frame-parent37 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.branch-date-row,
+.frame-parent37 {
+  align-items: flex-start;
+  gap: var(--gap-9xs);
+}
+.frame-parent37 {
+  width: 262px;
+  flex-direction: column;
+  gap: var(--gap-7xs);
+}
+.jan-2023-8 {
+  flex: 1;
+  position: relative;
+  color: var(--black-b400-txttitle);
+}
+.tgl-downloaddownloaded-on-container8 {
+  position: relative;
+  display: inline-block;
+  min-width: 112px;
+}
+.frame-parent38,
+.name-period-details {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent38 {
+  flex-direction: column;
+  gap: var(--gap-7xs);
+  min-width: 146px;
+}
+.name-period-details {
+  flex-direction: row;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.dari-158,
+.of-158 {
+  text-decoration: none;
+  position: relative;
+  color: inherit;
+}
+.dari-158 {
+  align-self: stretch;
+  font-weight: 700;
+}
+.of-158 {
+  display: inline-block;
+  font-style: italic;
+  min-width: 27px;
+}
+.page-counter-suffix {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 0 0 0 var(--padding-smi);
+  color: var(--black-b200-txtplaceholder);
+}
+.name17 {
+  width: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  text-align: right;
+  color: var(--black-b400-txttitle);
+}
+.name-period-details-parent,
+.pinjamanloan-wrapper {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.name-period-details-parent {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: var(--gap-base);
+  max-width: 100%;
+  font-size: var(--font-size-5xs);
+  color: var(--color-black);
+}
+.pinjamanloan-wrapper {
+  flex-direction: column;
+}
+.product1 {
+  white-space: pre-wrap;
+}
+.produkproduct-kredit-modal-container {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.produkproduct-kredit-modal-k-wrapper {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) var(--padding-5xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.loan-details-headers-inner,
+.tabungan2 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.loan-details-headers-inner {
+  background-color: var(--color-cornflowerblue-100);
+  flex-direction: row;
+}
+.tabungan2 {
+  flex-direction: column;
+  color: var(--black-b0-bgwhite);
+}
+.pokok-pinjaman-idr {
+  margin: 0;
+}
+.principal-loan-amount-idr {
+  margin: 0;
+  color: var(--black-b300-txtbody);
+}
+.pokok-pinjaman-idr-container {
+  flex: 1;
+  position: relative;
+  line-height: 8px;
+  display: inline-block;
+  min-height: 36px;
+}
+.pokok-pinjaman-idr-principal-wrapper {
+  flex: 1;
+  background-color: var(--color-lavender);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-7xl);
+  box-sizing: border-box;
+  min-width: 52px;
+}
+.tgl-pencairan-disbursement-container {
+  position: relative;
+}
+.tgl-pencairan-disbursement-dat-wrapper {
+  flex: 1;
+  background-color: var(--color-lavender);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-25xl);
+  box-sizing: border-box;
+  min-width: 50px;
+  text-align: left;
+}
+.jatuh-tempo-terakhir-container {
+  flex: 1;
+  position: relative;
+}
+.jatuh-tempo-terakhir-maturity-wrapper,
+.tenor-bulan-tenor-month-wrapper {
+  background-color: var(--color-lavender);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.jatuh-tempo-terakhir-maturity-wrapper {
+  flex: 1;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-16xl);
+  min-width: 50px;
+  text-align: left;
+}
+.tenor-bulan-tenor-month-wrapper {
+  width: 42px;
+  flex-shrink: 0;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-7xl);
+}
+.sisa-tenor-bulan-container {
+  flex: 1;
+  position: relative;
+  line-height: 8px;
+  display: inline-block;
+  min-height: 54px;
+}
+.sisa-tenor-bulan-outstanding-wrapper {
+  width: 45px;
+  background-color: var(--color-lavender);
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs);
+  box-sizing: border-box;
+}
+.sisa-pokok-pinjaman-container {
+  height: 45px;
+  flex: 1;
+  position: relative;
+  line-height: 8px;
+  display: flex;
+  align-items: center;
+  min-height: 45px;
+}
+.pembayaran-berikutnya-idr-ne-wrapper,
+.sisa-pokok-pinjaman-idr-rema-wrapper {
+  flex: 1;
+  background-color: var(--color-lavender);
+  overflow: hidden;
+  box-sizing: border-box;
+  min-width: 50px;
+}
+.sisa-pokok-pinjaman-idr-rema-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-mid);
+}
+.pembayaran-berikutnya-idr-ne-wrapper {
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-7xl);
+}
+.account-details,
+.loan-details,
+.pembayaran-berikutnya-idr-ne-wrapper,
+.tgl-pembayaran-berikutnya-next-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.tgl-pembayaran-berikutnya-next-wrapper {
+  flex: 1;
+  background-color: var(--color-lavender);
+  overflow: hidden;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-7xl);
+  box-sizing: border-box;
+  min-width: 50px;
+  text-align: left;
+}
+.account-details,
+.loan-details {
+  align-self: stretch;
+}
+.loan-details {
+  flex-wrap: wrap;
+  gap: var(--gap-11xs);
+  text-align: right;
+}
+.account-details {
+  background-color: var(--color-aliceblue);
+  max-width: 100%;
+  color: var(--black-b300-txtbody);
+}
+.div117 {
+  height: 24px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.wrapper153,
+.wrapper154 {
+  overflow: hidden;
+  box-sizing: border-box;
+}
+.wrapper153 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xs);
+  min-width: 52px;
+}
+.wrapper154 {
+  width: 42px;
+  flex-shrink: 0;
+}
+.wrapper154,
+.wrapper155,
+.wrapper156 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-5xs);
+}
+.wrapper155 {
+  width: 45px;
+  overflow: hidden;
+  flex-shrink: 0;
+  box-sizing: border-box;
+}
+.wrapper156 {
+  flex: 1;
+  min-width: 50px;
+}
+.jan-2023-wrapper45,
+.product-names,
+.wrapper156 {
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.jan-2023-wrapper45 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-5xs);
+  min-width: 50px;
+  text-align: left;
+}
+.product-names {
+  border-bottom: 1px solid var(--black-b50-bgdisabled);
+}
+.payroll,
+.product-names {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.produkproduct-kpr-rumah-container {
+  position: relative;
+  display: inline-block;
+  min-width: 97px;
+}
+.jan-2025-wrapper,
+.produkproduct-kpr-rumah-wrapper {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.produkproduct-kpr-rumah-wrapper {
+  padding: var(--padding-9xs) var(--padding-6xs);
+  max-width: 100%;
+}
+.jan-2025-wrapper {
+  padding: 0 var(--padding-5xs);
+  min-width: 50px;
+  text-align: left;
+}
+.contents13 {
+  align-items: flex-start;
+  gap: var(--gap-xs);
+  font-size: var(--font-size-6xs);
+}
+.body-inner,
+.contents13,
+.frame-parent39,
+.frame-wrapper7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent39 {
+  align-items: flex-start;
+  gap: var(--gap-5xs);
+}
+.body-inner,
+.frame-wrapper7 {
+  align-items: center;
+}
+.body-inner {
+  align-items: flex-start;
+  font-size: var(--font-size-4xs);
+}
+.span15 {
+  color: var(--color-dimgray-100);
+}
+.ini-adalah-batas-akhir-transak {
+  font-weight: 500;
+}
+.youve-reached-the {
+  color: var(--black-b200-txtplaceholder);
+}
+.ini-adalah-batas-container {
+  width: 222.7px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.ini-adalah-batas-akhir-transak-wrapper,
+.transaction-limit {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.ini-adalah-batas-akhir-transak-wrapper {
+  width: 575px;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: var(--padding-5xs) var(--padding-xl);
+  max-width: 103%;
+}
+.transaction-limit {
+  align-self: stretch;
+  height: 32px;
+  padding: 0;
+  max-width: 100%;
+  text-align: center;
+}
+.information-header,
+.information-header-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.information-header {
+  flex: 1;
+  background-color: var(--color-lavender);
+  overflow: hidden;
+  padding: var(--padding-5xs);
+  box-sizing: border-box;
+}
+.information-header-wrapper {
+  align-self: stretch;
+}
+.kursexchange-rate,
+.mengacu-ke-kurs-container {
+  align-self: stretch;
+  position: relative;
+}
+.mengacu-ke-kurs-container {
+  color: var(--color-black);
+}
+.exchange-rate-info,
+.exchange-rate-items {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.exchange-rate-items {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-9xs);
+}
+.exchange-rate-info {
+  gap: var(--gap-xs);
+}
+.exchange-rate-details,
+.exchange-rate-info,
+.table20 {
+  align-self: stretch;
+  flex-direction: column;
+}
+.exchange-rate-details {
+  overflow: hidden;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs);
+}
+.table20 {
+  border-bottom: 1px solid var(--black-b50-bgdisabled);
+  box-sizing: border-box;
+}
+.body-wrapper2,
+.body5,
+.header-parent2,
+.table20 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.body5 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xl);
+  z-index: 1;
+}
+.body-wrapper2,
+.header-parent2 {
+  align-self: stretch;
+}
+.body-wrapper2 {
+  flex-direction: row;
+  padding: 0 var(--padding-base);
+  box-sizing: border-box;
+  font-size: var(--font-size-6xs);
+  color: var(--black-b400-txttitle);
+}
+.header-parent2 {
+  flex-direction: column;
+  gap: var(--gap-base);
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--black-b0-bgwhite);
+  font-family: var(--font-tt-interphases);
+}
+.pt-bank-mandiri8 {
+  width: 343.3px;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.bank-info2,
+.disclaimer2 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.disclaimer2 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+}
+.bank-info2 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-3xs) var(--padding-3xs) var(--padding-xs)
+    var(--padding-base);
+  box-sizing: border-box;
+  min-width: 302px;
+}
+.mandiri-call-140008 {
+  width: 69px;
+  position: relative;
+  line-height: 140%;
+  text-align: right;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 69px;
+}
+.content30,
+.footer8,
+.root7 {
+  max-width: 100%;
+  display: flex;
+  justify-content: flex-start;
+}
+.content30 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 0 var(--padding-base) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-26xl);
+}
+.footer8,
+.root7 {
+  flex-direction: column;
+  align-items: flex-start;
+}
+.footer8 {
+  align-self: stretch;
+  border-top: 1px solid var(--black-b50-bgdisabled);
+  box-sizing: border-box;
+  z-index: 1;
+  text-align: left;
+  font-size: var(--font-size-5xs);
+  color: var(--black-character-low-emphasis);
+  font-family: var(--font-tt-interphases);
+}
+.root7 {
+  width: 595px;
+  background-color: var(--black-b0-bgwhite);
+  position: relative;
+  gap: var(--gap-19xl);
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 500px) {
+  .header8 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .name-period-details {
+    flex-wrap: wrap;
+  }
+  .content30 {
+    gap: var(--gap-3xl);
+  }
+  .root7 {
+    gap: var(--gap-lgi);
+  }
+}
